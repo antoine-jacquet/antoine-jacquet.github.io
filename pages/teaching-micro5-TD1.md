@@ -16,3 +16,4 @@ On prend les utilités Cobb-Douglas...
 	UB <- function(x1, x2) x1 * x2					# fonction d'utilité de B
  
  ```
+ 

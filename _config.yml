@@ -9,3 +9,5 @@ author :
 
 production_url : https://antoine-jacquet.github.io/
 BASE_PATH : https://antoine-jacquet.github.io/
+
+mathjax: true

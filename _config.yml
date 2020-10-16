@@ -6,3 +6,6 @@ author :
   name : Antoine Jacquet
   email : antoine.jacquet@tse-fr.eu
   github : antoine-jacquet
+
+production_url : https://antoine-jacquet.github.io/
+BASE_PATH : https://antoine-jacquet.github.io/

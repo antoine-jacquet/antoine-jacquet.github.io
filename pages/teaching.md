@@ -1,6 +1,14 @@
-# Microeconomics 5
+layout: page
+title: "Teaching"
+permalink: /teaching/
 
 
-# Game theory
+## Microeconomics 5
 
+Some material
+
+
+## Game theory
+
+Some material again
 

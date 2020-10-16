@@ -1,3 +1,7 @@
+# Microéconomie 5 – TD1
+
+## Exercice 1 : préférences Cobb-Douglas 
+
 On prend les utilités Cobb-Douglas...
 
 ```markdown

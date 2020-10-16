@@ -1,7 +1,3 @@
----
-title: Antoine Jacquet
----
-
 Hello!
 
 En effet,

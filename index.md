@@ -1,3 +1,8 @@
+---
+layout: default
+title: Antoine Jacquet
+---
+
 Hello!
 
 En effet,

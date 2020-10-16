@@ -11,6 +11,3 @@ production_url : https://antoine-jacquet.github.io/
 BASE_PATH : https://antoine-jacquet.github.io/
 
 mathjax: true
-
-<script type="text/javascript"
-        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS_CHTML"></script>

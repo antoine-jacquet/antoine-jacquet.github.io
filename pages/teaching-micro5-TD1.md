@@ -4,6 +4,8 @@
 
 On prend les utilités Cobb-Douglas...
 
+$u^A (x_A) = x_1^A x_2^A$
+
 ```markdown
 
   omega1 <- 40									# ressources totales en bien 1

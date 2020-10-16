@@ -1,7 +1,3 @@
-layout: page
-title: "Teaching"
-permalink: /teaching/
-
 
 ## Microeconomics 5
 

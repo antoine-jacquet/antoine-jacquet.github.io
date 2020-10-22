@@ -13,5 +13,3 @@ I was teaching assistant for several courses at TSE.
 - Fall 2020 \| **Microeconomics** (3rd year bachelor)
 
 You can find some material for these classes [here](pages/teaching.html).
-
-![Bidoo](assets/images/bids.png)

@@ -5,7 +5,7 @@ author :
   name : Antoine Jacquet
   email : antoine.jacquet@tse-fr.eu
   github : antoine-jacquet
-logo: ![Bidoo](assets/images/bids.png)
+logo: assets/images/bids.png
 description: If you're not here for Economics, maybe you'll find solace in this picture of my cat.
 show_downloads: false
 google_analytics:

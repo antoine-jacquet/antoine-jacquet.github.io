@@ -7,7 +7,9 @@ author:
   github: antoine-jacquet
   website: https://www.tse-fr.eu/fr/people/antoine-jacquet
   twitter: https://www.tse-fr.eu/fr/people/antoine-jacquet
-icon: fab fa-github
+- title: Email
+  url: mailto://vszhub@gmail.com
+  icon: fas fa-envelope
 logo: assets/images/bids.png
 description: If nothing else, maybe you'll be interested in this picture of my cat.
 show_downloads: false

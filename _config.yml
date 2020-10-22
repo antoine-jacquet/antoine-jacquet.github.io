@@ -19,7 +19,7 @@ exclude:
 
 # Others
 BASE_PATH: https://antoine-jacquet.github.io/
-show_downloads: false
+show_downloads: true
 #google_analytics:
 mathjax: true
 toc: true

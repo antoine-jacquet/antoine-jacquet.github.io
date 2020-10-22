@@ -14,4 +14,4 @@ I was teaching assistant for several courses at TSE.
 
 You can find some material for these classes [here](pages/teaching.html).
 
-![Bidoo](assets/images/bids.jpg)
+![Bidoo](assets/images/bids.png)

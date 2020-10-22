@@ -6,21 +6,20 @@ title: Antoine Jacquet
 logo: assets/images/bids.png
 description: If nothing else, maybe you'll be interested in this picture of my cat.
 url: https://antoine-jacquet.github.io
-cover_image: assets/images/bids.png
 website: https://www.tse-fr.eu/fr/people/antoine-jacquet
-paginate: 5
-permalink: pretty
+
 
 # Optimize Jekyll
 exclude:
   - README.md
 
 # Optimize Jekyll SEO Tag
-twitter:
-  username: vszhub
-  card: summary
+#twitter:
+#  username: vszhub
+#  card: summary
 
 # Others
+BASE_PATH: https://antoine-jacquet.github.io/
 show_downloads: false
 #google_analytics:
 mathjax: true

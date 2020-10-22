@@ -1,18 +1,33 @@
+# Theme
 theme: jekyll-theme-minimal
 
+# Setup
 title: Antoine Jacquet
-author:
-  name: Antoine Jacquet
-  email: antoine.jacquet@tse-fr.eu
-  github: antoine-jacquet
-  website: https://www.tse-fr.eu/fr/people/antoine-jacquet
-  twitter: https://www.tse-fr.eu/fr/people/antoine-jacquet
 logo: assets/images/bids.png
 description: If nothing else, maybe you'll be interested in this picture of my cat.
-show_downloads: false
-google_analytics:
+url: https://antoine-jacquet.github.io
+cover_image: assets/images/bids.png
 website: https://www.tse-fr.eu/fr/people/antoine-jacquet
+paginate: 5
+permalink: pretty
 
-production_url : https://antoine-jacquet.github.io/
-BASE_PATH : https://antoine-jacquet.github.io/
+# Optimize Jekyll
+exclude:
+  - README.md
+
+# Optimize Jekyll SEO Tag
+twitter:
+  username: vszhub
+  card: summary
+
+# Others
+show_downloads: false
+#google_analytics:
 mathjax: true
+
+# Specify the author for blog posts
+author:
+  name: Antoine Jacquet
+  url: https://github.com/antoine-jacquet/
+  email: antoine.jacquet@tse-fr.eu
+  github: antoine-jacquet

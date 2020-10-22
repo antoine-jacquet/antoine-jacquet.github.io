@@ -8,7 +8,6 @@ description: If nothing else, maybe you'll be interested in this picture of my c
 url: https://antoine-jacquet.github.io
 website: https://www.tse-fr.eu/fr/people/antoine-jacquet
 
-
 # Optimize Jekyll
 exclude:
   - README.md
@@ -23,6 +22,7 @@ BASE_PATH: https://antoine-jacquet.github.io/
 show_downloads: false
 #google_analytics:
 mathjax: true
+toc: true
 
 # Specify the author for blog posts
 author:

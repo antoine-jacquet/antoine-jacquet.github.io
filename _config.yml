@@ -1,15 +1,15 @@
 theme: jekyll-theme-minimal
 
 title: Antoine Jacquet
-
 author :
   name : Antoine Jacquet
   email : antoine.jacquet@tse-fr.eu
   github : antoine-jacquet
+logo: ![Bidoo](assets/images/bids.png)
+description: If you're not here for Economics, maybe you'll find solace in this picture of my cat.
+show_downloads: false
+google_analytics:
 
 production_url : https://antoine-jacquet.github.io/
 BASE_PATH : https://antoine-jacquet.github.io/
-
 mathjax: true
-
-description: ![Bidoo](assets/images/bids.png)

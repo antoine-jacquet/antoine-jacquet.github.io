@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.TSEicon {
+    background: url('assets/images/TSE-logo.svg');
+    height: 20px;
+    width: 20px;
+    display: block;
+    /* Other styles here */
+}

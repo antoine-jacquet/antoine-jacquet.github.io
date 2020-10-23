@@ -22,16 +22,15 @@
 <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
     <p>
-        {% if site.github.is_user_page %}
-<a href="{{ site.github.owner_url }}"> <i class="fa fa-github-square fa-3x" title="{{ GitHub profile }}"></i></a>
+        {% if site.website %}
+<a href="{{ site.website }}"> <i class="TSEicon" title="{{ TSE page }}" style="font-size: 300%;"></i></a>
+<a href="{{ site.website }}"> <img src="assets/images/TSE-logo.svg" height="40px"/img></a>
         {% endif %}
         {% if site.email %}
 <a href="{{ site.email }}"> <i class="fa fa-envelope-square fa-3x" title="{{ Send an email }}"></i></a>
         {% endif %}
-        {% if site.website %}
-<a href="{{ site.website }}"> <i class="fa fa-envelope-square fa-3x" title="{{ TSE page }}"></i></a>
-<a href="{{ site.website }}"> <i class="TSEicon" title="{{ TSE page }}" style="font-size: 300%;"></i></a>
-<a href="{{ site.website }}"> <img src="assets/images/TSE-logo.svg" height="40px"/img></a>
+        {% if site.github.is_user_page %}
+<a href="{{ site.github.owner_url }}"> <i class="fa fa-github-square fa-3x" title="{{ GitHub profile }}"></i></a>
         {% endif %}
     </p>
         {% if site.github.is_project_page %}

@@ -6,6 +6,7 @@ logo: assets/images/bids.png
 description: If nothing else, maybe you'll be interested in this picture of my cat.
 url: https://antoine-jacquet.github.io
 website: https://www.tse-fr.eu/fr/people/antoine-jacquet
+twitter: https://www.tse-fr.eu/fr/people/antoine-jacquet
 
 # Optimize Jekyll
 exclude:

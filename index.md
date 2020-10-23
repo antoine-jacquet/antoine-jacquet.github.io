@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a PhD student at the Toulouse School of Economics. You can find my resume [here](https://www.tse-fr.eu/sites/default/files/TSE/documents/doc/cv/phd/jacquet.pdf).
+I am a PhD student at the Toulouse School of Economics. You can find my resume [here](assets/images/CV_AJacquet.pdf).
 
 
 ## Teaching

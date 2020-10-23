@@ -3,20 +3,39 @@
 
 @import "{{ site.theme }}";
 
-.TSE:before{
-    content: url("https://github.com/antoine-jacquet/antoine-jacquet.github.io/blob/main/assets/images/TSEicon.png");
-    height: 20px;
-    width: 20px;
-    display: block;
-    /* Other styles here */
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?j41n58');
+  src:  url('fonts/icomoon.eot?j41n58#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?j41n58') format('truetype'),
+    url('fonts/icomoon.woff?j41n58') format('woff'),
+    url('fonts/icomoon.svg?j41n58#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
 .TSEicon .path1:before {
-  content: url("https://github.com/antoine-jacquet/antoine-jacquet.github.io/blob/main/assets/images/TSEicon.png");
-  color: #444;
+  content: "\e900";
+  color: rgb(68, 68, 68);
 }
 .TSEicon .path2:before {
-  content: url("https://github.com/antoine-jacquet/antoine-jacquet.github.io/blob/main/assets/images/TSEicon.png");
-  color: #fff;
+  content: "\e901";
   margin-left: -1em;
+  color: rgb(255, 255, 255);
 }

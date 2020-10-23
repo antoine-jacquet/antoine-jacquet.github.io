@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 ## Microéconomie 5
 

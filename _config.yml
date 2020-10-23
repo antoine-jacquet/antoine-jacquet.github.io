@@ -3,7 +3,7 @@ theme: jekyll-theme-minimal
 # Setup
 title: Antoine Jacquet
 logo: assets/images/bids.png
-description: If nothing else, maybe you'll be interested in this picture of my cat.
+description:
 url: https://antoine-jacquet.github.io
 social:
 email: antoine.jacquet@tse-fr.eu

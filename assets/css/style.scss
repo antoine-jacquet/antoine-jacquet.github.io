@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 .TSE:before{
-    background: url("https://github.com/antoine-jacquet/antoine-jacquet.github.io/blob/main/assets/images/TSEicon.png");
+    content: url("https://github.com/antoine-jacquet/antoine-jacquet.github.io/blob/main/assets/images/TSEicon.png");
     height: 20px;
     width: 20px;
     display: block;

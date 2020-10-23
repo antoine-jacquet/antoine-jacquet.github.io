@@ -19,13 +19,13 @@
         {% endif %}
 <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
         {% if site.github.is_user_page %}
-<ul class="links">
-    <li><a href="#">TEST</a></li>
-    <li><a href="{{ site.github.owner_url }}"> <i class="fa fa-github-square" title="{{ GitHub profile }}" style="font-size: 300%;"></i></a><li/>
-</ul>
+<a href="{{ site.github.owner_url }}"> <i class="fa fa-github-square" title="{{ GitHub profile }}" style="font-size: 300%;"></i></a>
         {% endif %}
         {% if site.email %}
-<a href="mailto:" + site.email> <i class="fa fa-envelope-square" title="{{ Send an email }}" style="font-size: 300%;"></i></a><li/>
+<a href="mailto:" + "{{ site.email }}"> <i class="fa fa-envelope-square" title="{{ Send an email }}" style="font-size: 300%;"></i></a><li/>
+        {% endif %}
+        {% if site.website %}
+<a href="{{ site.website }}"> <i class=https://www.tse-fr.eu/sites/all/themes/tse/favicon.ico title="{{ TSE page }}" style="font-size: 300%;"></i></a><li/>
         {% endif %}
 <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% if site.github.is_project_page %}

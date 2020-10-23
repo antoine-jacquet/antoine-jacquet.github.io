@@ -2,10 +2,9 @@
 layout: default
 ---
 
-Hello!
+## About me
 
-A [link to my TSE page](https://www.tse-fr.eu/fr/people/antoine-jacquet).
-
+I am a PhD student at the Toulouse School of Economics.
 
 
 ## Teaching

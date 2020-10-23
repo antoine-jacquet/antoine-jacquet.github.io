@@ -19,7 +19,11 @@
 <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         {% if site.github.is_user_page %}
-    <a href="{{ site.github.owner_url }}"> <i class="fa fa-github-square" title="{{ GitHub profile }}"></i></a>
+<ul>
+    <li><a href="#">ABCD</a></li>
+    <li><a href="{{ site.github.owner_url }}"> <i class="fa fa-github-square" title="{{ GitHub profile }}"></i></a><li/>
+    <li><a href="{{ site.github.owner_url }}"> <i class="fa fa-github-square" title="{{ GitHub profile }}"></i></a><li/>
+</ul>
         {% endif %}
 <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% if site.github.is_project_page %}

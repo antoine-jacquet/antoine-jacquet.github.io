@@ -17,7 +17,7 @@
   text-indent: -9999px;
   width: 100px;
   height: 82px;
-  background: url(/../images/TSElogo.svg);
+  background: url(../images/TSElogo.svg);
   background-size: 100px 82px;
 }
 
@@ -27,5 +27,14 @@
   width: 100px;
   height: 82px;
   background: url(../../images/TSElogo.svg);
+  background-size: 100px 82px;
+}
+
+.TSElogo4 {
+  display: block;
+  text-indent: -9999px;
+  width: 100px;
+  height: 82px;
+  background: url(assets/images/TSElogo.svg);
   background-size: 100px 82px;
 }

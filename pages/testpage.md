@@ -4,6 +4,7 @@ layout: defaulttest.html
 
 ## This is a page for tests
 
+<p>
 <span class="icon-TSE-logo"><span class="path1"></span><span class="path2"></span></span>
 <span class="mls"> icon-TSE-logo</span>
 
@@ -13,3 +14,4 @@ layout: defaulttest.html
 
 <a href="{{ site.website }}"> <img src="../assets/images/TSEicon.svg" height="35px"/img></a>
 <a href="{{ site.website }}"> <i class="fa fa-external-link-square fa-3x" title="{{ TSE webpage }}"></i></a>
+</p>

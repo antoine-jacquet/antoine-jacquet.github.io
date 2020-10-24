@@ -15,4 +15,4 @@ I was teaching assistant for several courses at TSE.
 - Winter 2019 & 2020 \| **Mathematics** (1st year bachelor)
 - Fall 2020 \| **Microeconomics** (3rd year bachelor)
 
-You can find some material for these classes [here](pages/teaching.html).
+You can find some material for these classes [here](teaching.html).

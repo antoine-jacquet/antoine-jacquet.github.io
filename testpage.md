@@ -1,5 +1,5 @@
 ---
-layout: default-test.html
+layout: default-test
 ---
 
 ## This is a page for tests

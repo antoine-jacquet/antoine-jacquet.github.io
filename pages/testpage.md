@@ -4,14 +4,12 @@ layout: defaulttest.html
 
 ## This is a page for tests
 
- <p>
-        {% if site.website %}
 <span class="icon-TSE-logo"><span class="path1"></span><span class="path2"></span></span>
 <span class="mls"> icon-TSE-logo</span>
-<a href="{{ site.website }}"> <i class="fa fa-external-link-square fa-3x" title="{{ TSE webpage }}"></i></a>
+
 <span class="fa fa-envelope-square fa-2x"><span class="path1"></span><span class="path2"></span></span>
 <i class="fa TSEicon" title="{{ TSE page }}" style="font-size: 300%;"></i>
 <i class="fa TSE" title="{{ TSE page }}" style="font-size: 300%;"></i>
+
 <a href="{{ site.website }}"> <img src="../assets/images/TSEicon.svg" height="35px"/img></a>
-        {% endif %}
-</p>
+<a href="{{ site.website }}"> <i class="fa fa-external-link-square fa-3x" title="{{ TSE webpage }}"></i></a>

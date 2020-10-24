@@ -1,3 +1,6 @@
+---
+layout: defaulttest.html
+---
 
 ## This is a page for tests
 

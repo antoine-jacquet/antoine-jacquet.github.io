@@ -3,23 +3,4 @@
 
 @import "{{ site.theme }}";
 
-@font-face {
-  font-family: 'icomoon';
-  src:
-    url('https://i.icomoon.io/public/temp/3bab4d1cae/UntitledProject/icomoon.ttf?bsjkzf') format('truetype'),
-    url('https://i.icomoon.io/public/temp/3bab4d1cae/UntitledProject/icomoon.woff?bsjkzf') format('woff'),
-    url('https://i.icomoon.io/public/temp/3bab4d1cae/UntitledProject/icomoon.svg?bsjkzf#icomoon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
-}
-
-.icon-TSElogo .path1:before {
-  content: "\e900";
-  color: rgb(68, 68, 68);
-}
-.icon-TSElogo .path2:before {
-  content: "\e901";
-  margin-left: -1em;
-  color: rgb(255, 255, 255);
-}
+@import "style-icomoon.css";

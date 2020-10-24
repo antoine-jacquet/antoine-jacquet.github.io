@@ -5,7 +5,7 @@
 
 .TSElogo1 {
   display: block;
-  text-indent: 0px;
+  text-indent: -9999px;
   width: 100px;
   height: 82px;
   background: url(/assets/images/TSElogo.svg);
@@ -14,11 +14,18 @@
 
 .TSElogo2 {
   display: block;
-  text-indent: 0px;
+  text-indent: -9999px;
+  width: 100px;
+  height: 82px;
+  background: url(/../images/TSElogo.svg);
+  background-size: 100px 82px;
+}
+
+.TSElogo2 {
+  display: block;
+  text-indent: -9999px;
   width: 100px;
   height: 82px;
   background: url(../../images/TSElogo.svg);
   background-size: 100px 82px;
 }
-
-@import "style-icomoon.css";

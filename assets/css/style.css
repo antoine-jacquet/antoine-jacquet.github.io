@@ -30,11 +30,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.TSEicon .path1:before {
+.icon-TSE-logo .path1:before {
   content: "\e900";
   color: rgb(68, 68, 68);
 }
-.TSEicon .path2:before {
+.icon-TSE-logo .path2:before {
   content: "\e901";
   margin-left: -1em;
   color: rgb(255, 255, 255);

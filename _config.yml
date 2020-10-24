@@ -3,15 +3,14 @@ theme: jekyll-theme-minimal
 # Setup
 title: Antoine Jacquet
 logo: assets/images/bids.png
-description: Here is a test description.
+description:
 url: https://antoine-jacquet.github.io
-social:
 email: mailto:antoine.jacquet@tse-fr.eu
 website: https://www.tse-fr.eu/fr/people/antoine-jacquet
-twitter: https://www.tse-fr.eu/fr/people/antoine-jacquet
 
 # Optimize Jekyll
 exclude:
+  - .gitignore
   - README.md
 
 # Optimize Jekyll SEO Tag

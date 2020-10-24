@@ -8,6 +8,7 @@
     {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://i.icomoon.io/public/temp/9e81711c31/UntitledProject/style.css">
     <!--[if lt IE 9]>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -30,6 +31,14 @@
     <p>
         {% if site.website %}
 <a href="{{ site.website }}"> <i class="fa fa-external-link-square fa-3x" title="{{ TSE webpage }}"></i></a>
+<a href="{{ site.website }}"> <i class="icon-TSElogo" title="{{ TSE webpage }}"></i></a>
+<a href="{{ site.website }}"> <i class="fa icon-TSElogo" title="{{ TSE webpage }}"></i></a>
+<a href="{{ site.website }}"> <i class="fa icon-TSElogo fa-3x" title="{{ TSE webpage }}"></i></a>
+
+<a href="{{ site.website }}"> <span class="icon-TSElogo"><span class="path1"></span><span class="path2"></span></span></a>
+<a href="{{ site.website }}"> <span class="fa icon-TSElogo fa-3x"><span class="path1"></span><span class="path2"></span></span></a>
+<a href="{{ site.website }}"> <span class="fa icon-TSElogo fa-3x" style="color:rgb(7,25,135)"><span class="path1"></span><span class="path2"></span></span></a>
+
         {% endif %}
         
         {% if site.email %}

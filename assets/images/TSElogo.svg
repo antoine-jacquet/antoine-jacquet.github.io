@@ -13,7 +13,7 @@
    viewBox="0 0 336.00001 336.00001"
    preserveAspectRatio="xMidYMid meet"
    id="svg21"
-   sodipodi:docname="TSE-logo.svg"
+   sodipodi:docname="TSElogo.svg"
    inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
   <defs
      id="defs25" />
@@ -27,14 +27,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1165"
-     inkscape:window-height="893"
+     inkscape:window-height="778"
      id="namedview23"
      showgrid="false"
      inkscape:zoom="1.1575153"
      inkscape:cx="282.68681"
      inkscape:cy="199.75054"
-     inkscape:window-x="361"
-     inkscape:window-y="64"
+     inkscape:window-x="62"
+     inkscape:window-y="17"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg21"
      inkscape:snap-page="true"
@@ -42,7 +42,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     inkscape:document-rotation="0" />
   <metadata
      id="metadata15">
 Created by potrace 1.16, written by Peter Selinger 2001-2019
@@ -52,27 +53,30 @@ Created by potrace 1.16, written by Peter Selinger 2001-2019
     <dc:format>image/svg+xml</dc:format>
     <dc:type
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title></dc:title>
+    <dc:title />
   </cc:Work>
 </rdf:RDF>
 </metadata>
-  <path
-     sodipodi:nodetypes="sssssssss"
-     inkscape:connector-curvature="0"
-     id="path10"
-     d="M 300.00001,0 H 36 C 16.125,0 0,16.125 0,36.00001 V 300 c 0,19.875 16.125,36 36,36 h 264.00001 c 19.875,0 36,-16.125 36,-36 V 36.00001 C 336.00001,16.125 319.87501,0 300.00001,0 Z"
-     fill="currentColor"
-     style="stroke-width:0.75" />
   <g
-     transform="matrix(0.04491979,0,0,-0.04491979,0,336.00001)"
-     fill="#000000"
-     stroke="none"
-     id="g19"
-     style="fill:#ffffff">
+     id="g20">
     <path
-       d="M 6090,5560 V 4910 H 3715 1340 v 650 650 H 3715 6090 Z M 3936,4815 c 182,-29 325,-96 429,-200 96,-97 155,-230 155,-352 v -53 h -304 -304 l -6,34 c -13,70 -101,112 -211,103 -74,-6 -112,-23 -130,-57 -40,-78 24,-112 324,-169 184,-36 288,-68 384,-118 126,-67 206,-156 249,-281 20,-57 23,-86 22,-197 0,-115 -4,-139 -28,-210 -35,-102 -74,-162 -148,-229 -75,-68 -177,-119 -304,-152 -135,-36 -433,-45 -597,-20 -376,59 -550,229 -581,569 l -7,67 h 331 330 v -29 c 0,-87 152,-147 282,-111 71,20 101,95 55,138 -40,38 -108,60 -314,101 -308,62 -429,114 -536,230 -77,82 -117,197 -117,331 1,274 144,468 413,561 45,16 118,35 162,43 107,19 337,20 451,1 z m 544,-2275 v -270 l -432,-2 -433,-3 -3,-77 -3,-78 h 436 435 v -205 -205 h -435 -435 v -80 -80 h 435 435 V 1250 960 h -765 -765 v 925 925 h 765 765 z"
-       id="path17"
-       sodipodi:nodetypes="cccccccccccsccccccccccccccccccsccccccccccccccccccccccccccccccccc"
-       style="fill:#ffffff" />
+       sodipodi:nodetypes="sssssssss"
+       inkscape:connector-curvature="0"
+       id="path10"
+       d="M 300.00001,0 H 36 C 16.125,0 0,16.125 0,36.00001 V 300 c 0,19.875 16.125,36 36,36 h 264.00001 c 19.875,0 36,-16.125 36,-36 V 36.00001 C 336.00001,16.125 319.87501,0 300.00001,0 Z"
+       fill="currentColor"
+       style="stroke-width:0.75" />
+    <g
+       transform="matrix(0.04491979,0,0,-0.04491979,0,336.00001)"
+       fill="#000000"
+       stroke="none"
+       id="g19"
+       style="fill:#ffffff">
+      <path
+         d="M 6090,5560 V 4910 H 3715 1340 v 650 650 H 3715 6090 Z M 3936,4815 c 182,-29 325,-96 429,-200 96,-97 155,-230 155,-352 v -53 h -304 -304 l -6,34 c -13,70 -101,112 -211,103 -74,-6 -112,-23 -130,-57 -40,-78 24,-112 324,-169 184,-36 288,-68 384,-118 126,-67 206,-156 249,-281 20,-57 23,-86 22,-197 0,-115 -4,-139 -28,-210 -35,-102 -74,-162 -148,-229 -75,-68 -177,-119 -304,-152 -135,-36 -433,-45 -597,-20 -376,59 -550,229 -581,569 l -7,67 h 331 330 v -29 c 0,-87 152,-147 282,-111 71,20 101,95 55,138 -40,38 -108,60 -314,101 -308,62 -429,114 -536,230 -77,82 -117,197 -117,331 1,274 144,468 413,561 45,16 118,35 162,43 107,19 337,20 451,1 z m 544,-2275 v -270 l -432,-2 -433,-3 -3,-77 -3,-78 h 436 435 v -205 -205 h -435 -435 v -80 -80 h 435 435 V 1250 960 h -765 -765 v 925 925 h 765 765 z"
+         id="path17"
+         sodipodi:nodetypes="cccccccccccsccccccccccccccccccsccccccccccccccccccccccccccccccccc"
+         style="fill:#ffffff" />
+    </g>
   </g>
 </svg>

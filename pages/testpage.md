@@ -12,6 +12,6 @@ layout: defaulttest.html
 <span class="fa fa-envelope-square fa-2x"><span class="path1"></span><span class="path2"></span></span>
 <i class="fa TSEicon" title="{{ TSE page }}" style="font-size: 300%;"></i>
 <i class="fa TSE" title="{{ TSE page }}" style="font-size: 300%;"></i>
-<a href="{{ site.website }}"> <img src="/assets/images/TSEicon.svg" height="35px"/img></a>
+<a href="{{ site.website }}"> <img src="../assets/images/TSEicon.svg" height="35px"/img></a>
         {% endif %}
 </p>

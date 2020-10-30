@@ -12,5 +12,7 @@ TD2: [ex1](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/05f38c62f126a5e9d
 TD3: [ex1](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/05f38c62f126a5e9d28c7211cf5e7ffa454c2c3a?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD3-ex1.ipynb)  
 TD4: [ex1](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/05f38c62f126a5e9d28c7211cf5e7ffa454c2c3a?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD4-ex1.ipynb)  
 
+Classes en ligne sur Zoom : [cliquez ici](https://ut-capitole-fr.zoom.us/j/95728405507?pwd=b0hld29xM3M1TkE1M0dkbGkrZHhMUT09)
+
 
 

@@ -12,7 +12,7 @@ TD2: [ex1](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4d82e12729b0cba8c
 TD3: [ex1](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4d82e12729b0cba8ca76ec90b5b6c7eb21644cea?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD3-ex1.ipynb)  
 TD4: [ex1](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4d82e12729b0cba8ca76ec90b5b6c7eb21644cea?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD4-ex1.ipynb)
   \| [ex2](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4d82e12729b0cba8ca76ec90b5b6c7eb21644cea?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD4-ex2.ipynb) (externalités positives)  
-TD5 : ex1
+TD5: ex1
 
 Classes en ligne : [Zoom](https://ut-capitole-fr.zoom.us/j/95728405507?pwd=b0hld29xM3M1TkE1M0dkbGkrZHhMUT09) (MdP : MicroMardi)
 | [Tableau virtuel](https://ezwrite.benq.com/)

@@ -14,8 +14,8 @@ TD4: [ex1](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4132f53710d51bcbc
   \| [ex2](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4132f53710d51bcbcfb69bea38151958ab18a0aa?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD4-ex2.ipynb) (externalités positives)  
 TD5: [ex1](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4132f53710d51bcbcfb69bea38151958ab18a0aa?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD5-ex1.ipynb)  
 TD6: [ex1](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4132f53710d51bcbcfb69bea38151958ab18a0aa?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD6-ex1.ipynb)
-  \| [ex2](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4132f53710d51bcbcfb69bea38151958ab18a0aa?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD6-ex2.ipynb)
-  \| ex3
+  \| ex2
+  \| [ex3](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4132f53710d51bcbcfb69bea38151958ab18a0aa?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD6-ex3.ipynb)
   \| [ex4](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4132f53710d51bcbcfb69bea38151958ab18a0aa?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD6-ex4.ipynb)
   \| [ex5](https://mybinder.org/v2/gh/antoine-jacquet/mybinder/4132f53710d51bcbcfb69bea38151958ab18a0aa?filepath=Teaching%2FMicro%C3%A9conomie%205%2Fmicro5-TD6-ex5.ipynb)  
 TD7: ex1

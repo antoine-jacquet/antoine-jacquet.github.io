@@ -4,13 +4,13 @@
 Ces solutions sont interactives et utilisent `R` pour les représentations graphiques. Modifiez les allocations ou les paramètres des fonctions d'utilité pour voir comment cela affecte les résultats.
 
 TD1: ex1 
-  \| ex2 
+  \| ex2
 TD2: ex1 
   \| ex2 
   \| ex3 
-  \| ex4  
+  \| ex4
 TD3: ex1  
-TD4: ex1
+TD4: ex1 
   \| ex2 (externalités positives)  
 TD5: ex1  
 TD6: ex1

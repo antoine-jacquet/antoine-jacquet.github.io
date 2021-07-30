@@ -11,7 +11,7 @@ TD2: ex1
   \| ex4  
 TD3: ex1  
 TD4: ex1 
-  \| ex2 (externalités positives)  
+  \| ex2  
 TD5: ex1  
 TD6: ex1
   \| ex2

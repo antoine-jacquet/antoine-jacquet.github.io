@@ -1,7 +1,7 @@
 
 ## Microéconomie 5
 
-# TDs et solutions
+### TDs et solutions
 
 Ces solutions sont interactives et utilisent `R` pour les représentations graphiques. Modifiez les allocations ou les paramètres des fonctions d'utilité pour voir comment cela affecte les résultats.
 
@@ -25,7 +25,7 @@ TD7: ex1
   \| ex3
   \| ex4  
 
-# Emplois du temps
+### Emplois du temps
 
 Groupe 1 Éco : Jeudi 9h30
 Groupe 2 Éco : Jeudi 11h

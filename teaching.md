@@ -33,7 +33,7 @@ Groupe 1 Éco : Jeudi 9h30
 Groupe 2 Éco : Jeudi 11h  
 Groupe 1 Éco-maths : Jeudi 14h  
 
-$Attention: ces horaires ne sont pas valables pour le 11 novembre et le 2 décembre. Voir modifications sur Moodle.*
+*Attention: ces horaires ne sont pas valables pour le 11 novembre et le 2 décembre. Voir modifications sur Moodle.*
 
 [Lien Zoom](https://ut-capitole-fr.zoom.us/j/95728405507?pwd=b0hld29xM3M1TkE1M0dkbGkrZHhMUT09)
 

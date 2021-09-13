@@ -3,7 +3,9 @@
 
 ### TDs et solutions
 
-Ces solutions sont interactives et utilisent `R` pour les représentations graphiques. Modifiez les allocations ou les paramètres des fonctions d'utilité pour voir comment cela affecte les résultats.
+Ces solutions sont interactives et utilisent `R` pour les représentations graphiques.
+Il n'est pas nécessaire de faire attention au code `R` pour cette classe.
+Vous pouvez néanmoins vous en servir pour mieux comprendre les problèmes, notamment en modifiant les allocations ou les paramètres des fonctions d'utilité pour voir comment cela affecte les résultats.
 
 TD1: ex1 
   \| ex2  

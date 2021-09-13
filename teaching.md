@@ -29,9 +29,9 @@ TD7: ex1
 
 ### Emplois du temps
 
-Groupe 1 Éco : Jeudi 9h30
-Groupe 2 Éco : Jeudi 11h
-Groupe 1 Éco-maths : Jeudi 14h
+Groupe 1 Éco : Jeudi 9h30  
+Groupe 2 Éco : Jeudi 11h  
+Groupe 1 Éco-maths : Jeudi 14h  
 
 [Lien Zoom](https://ut-capitole-fr.zoom.us/j/95728405507?pwd=b0hld29xM3M1TkE1M0dkbGkrZHhMUT09)
 

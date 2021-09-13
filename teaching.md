@@ -7,7 +7,8 @@ Ces solutions sont interactives et utilisent `R` pour les représentations graph
 Il n'est pas nécessaire de faire attention au code `R` pour cette classe.
 Vous pouvez néanmoins vous en servir pour mieux comprendre les problèmes, notamment en modifiant les allocations ou les paramètres des fonctions d'utilité pour voir comment cela affecte les résultats.
 
-TD1: ex1 
+[TD1](assets/TD2021/TD1.pdf):
+     ex1 
   \| ex2  
 TD2: ex1 
   \| ex2 

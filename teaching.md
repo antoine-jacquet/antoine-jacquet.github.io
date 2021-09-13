@@ -26,7 +26,7 @@ TD6: ex1
 TD7: ex1
   \| ex2
   \| ex3
-  \| ex4  
+  \| [ex4](https://hub.gke2.mybinder.org/user/antoine-jacquet-mybinder-k4wmx7kg/lab/tree/Teaching/Microéconomie%205/micro5-TD1-ex1.ipynb)  
 
 ### Emplois du temps
 

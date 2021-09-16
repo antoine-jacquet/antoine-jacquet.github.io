@@ -9,7 +9,7 @@ I am a PhD student at the Toulouse School of Economics. You can find my resume [
 
 ## Teaching
 
-I was teaching assistant for several courses at TSE.
+I have been teaching assistant for several courses at TSE.
 
 - **Game theory** (1st year master) \| Fall 2018 & 2019  
 - **Mathematics** (1st year bachelor) \| Winter 2019 & 2020  

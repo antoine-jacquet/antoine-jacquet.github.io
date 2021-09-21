@@ -4,8 +4,7 @@
 ### TDs et solutions
 
 Ces solutions sont interactives et utilisent `R` pour les représentations graphiques.
-Il n'est pas nécessaire de faire attention au code `R` pour cette classe.
-Vous pouvez néanmoins vous en servir pour mieux comprendre les problèmes, notamment en modifiant les allocations ou les paramètres des fonctions d'utilité pour voir comment cela affecte les résultats.
+Les parties codées en `R` ne sont pas nécessaires à la compréhension du cours.
 
 TD1 : [ex1](https://hub.gke2.mybinder.org/user/antoine-jacquet-mybinder-k4wmx7kg/lab/tree/Teaching/Microéconomie%205/micro5-TD1-ex1.ipynb) 
    \| ex2  

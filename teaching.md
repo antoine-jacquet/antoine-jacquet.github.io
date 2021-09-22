@@ -15,9 +15,9 @@ TD4 : ex1
    \| ex2  
 TD5 : ex1  
 TD6 : ex1
-   \| ex2
+   \| ex2  
 TD7 : ex1
-   \| ex2
+   \| ex2  
 
 ### Emplois du temps
 

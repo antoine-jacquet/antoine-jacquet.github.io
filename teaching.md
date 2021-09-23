@@ -6,8 +6,8 @@
 Ces solutions sont interactives et utilisent `R` pour les représentations graphiques.
 Les parties codées en `R` ne sont pas nécessaires à la compréhension du cours.
 
-TD1 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/7038b9e6ea58c3c358abebc917df97cf66be2110?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD1-ex1.ipynb) 
-   \| [ex2](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/7038b9e6ea58c3c358abebc917df97cf66be2110?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD1-ex2.ipynb)  
+TD1 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/c8c00eb8849c18647368ffd8a93a2c7423589eef?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD1-ex1.ipynb) 
+   \| [ex2](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/c8c00eb8849c18647368ffd8a93a2c7423589eef?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD1-ex2.ipynb)  
 TD2 : ex1 
    \| ex2  
 TD3 : ex1  

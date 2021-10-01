@@ -1,7 +1,7 @@
 
 ## Microéconomie 5
 
-### TDs et solutions
+### Solutions des TDs
 
 Ces solutions sont interactives et utilisent `R` pour les représentations graphiques.
 Les parties codées en `R` ne sont pas nécessaires à la compréhension du cours.

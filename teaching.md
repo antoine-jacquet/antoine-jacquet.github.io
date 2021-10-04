@@ -19,7 +19,7 @@ TD6 : ex1
 TD7 : ex1
    \| ex2  
    
-Si Binder ne fonctionne pas, des versions statiques sont disponibles [ici](https://github.com/antoine-jacquet/binder-teaching/blob/main/Microéconomie%205/README.md).
+Si Binder ne fonctionne pas, des versions statiques sont disponibles [ici](https://github.com/antoine-jacquet/binder-teaching/tree/main/Microéconomie%205).
 
 ### Emplois du temps
 

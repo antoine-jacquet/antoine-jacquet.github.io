@@ -8,7 +8,7 @@ Les parties codées en `R` ne sont pas nécessaires à la compréhension du cour
 
 TD1 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/530be8c5f0f33ee5d12250518e8694884b87791e?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD1-ex1.ipynb) 
    \| [ex2](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/530be8c5f0f33ee5d12250518e8694884b87791e?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD1-ex2.ipynb)  
-TD2 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/530be8c5f0f33ee5d12250518e8694884b87791e?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD2-ex1.ipynb)  
+TD2 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/530be8c5f0f33ee5d12250518e8694884b87791e?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD2-ex1.ipynb) 
    \| ex2  
 TD3 : ex1  
 TD4 : ex1 

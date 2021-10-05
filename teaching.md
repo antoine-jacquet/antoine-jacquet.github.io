@@ -21,13 +21,5 @@ TD7 : ex1
    
 Si Binder ne fonctionne pas, des versions statiques sont disponibles [ici](https://github.com/antoine-jacquet/binder-teaching/tree/main/Microéconomie%205).
 
-### Emplois du temps
-
-Groupe 1 Éco : Jeudi 9h30  
-Groupe 2 Éco : Jeudi 11h  
-Groupe 1 Éco-maths : Jeudi 14h  
-
-*Attention : ces horaires ne sont pas valables pour le 11 novembre et le 2 décembre. Voir modifications sur Moodle.*
-
 
 

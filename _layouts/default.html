@@ -36,16 +36,16 @@
     <p> <a href=".\vitae.html"> Vitæ </a> </p>
         
     <p>
-        {% if site.website %}
-<a href="{{ site.website }}"> <i class="fa fa-external-link-square fa-3x" title="{{ TSE webpage }}"></i></a>
-        {% endif %}
-        
         {% if site.email %}
 <a href="{{ site.email }}"> <i class="fa fa-envelope-square fa-3x" title="{{ Send an email }}"></i></a>
         {% endif %}
         
         {% if site.github.is_user_page %}
 <a href="{{ site.github.owner_url }}"> <i class="fa fa-github-square fa-3x" title="{{ GitHub profile }}"></i></a>
+        {% endif %}
+        
+        {% if site.website %}
+<a href="{{ site.website }}"> <i class="fa fa-external-link-square fa-3x" title="{{ TSE webpage }}"></i></a>
         {% endif %}
     </p>
         

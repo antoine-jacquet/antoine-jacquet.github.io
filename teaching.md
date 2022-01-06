@@ -1,7 +1,7 @@
 
 ## Teaching
 
-#### Microeconomics – 3rd year bachelor \[Microéconomie 5\]
+### Microeconomics – 3rd year bachelor \[Microéconomie 5\]
 
 *Fall 2020 & 2021*
 
@@ -26,12 +26,12 @@ TD8 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/e3617ee08
 Si Binder ne fonctionne pas, des versions statiques sont disponibles [ici](https://github.com/antoine-jacquet/binder-teaching/tree/main/Microéconomie%205).
 
 
-#### Game theory – 1st year master
+### Game theory – 1st year master
 
 *Fall 2018 & 2019*
 
 
-#### Mathematics – 1st year bachelor
+### Mathematics – 1st year bachelor
 
 *Winter 2019 & 2020*
 

@@ -13,9 +13,9 @@ I am visiting Columbia University for the Spring 2022 semester.
 
 ##### Contact info
 
+antoine.jacquet \[at\] tse-fr.eu
+
 Toulouse School of Economics  
 Office T436  
 1, Esplanade de l’Université  
 31 080 Toulouse, France
-
-antoine.jacquet \[at\] tse-fr.eu

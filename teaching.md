@@ -1,18 +1,11 @@
 
 ## Teaching
 
-I have been teaching assistant for several courses at TSE.
+#### Microeconomics – 3rd year bachelor (Microéconomie 5)
 
-- **Game theory** (1st year master) \| Fall 2018 & 2019  
-- **Mathematics** (1st year bachelor) \| Winter 2019 & 2020  
-- **Microeconomics** (3rd year bachelor) \| Fall 2020 & 2021
+*Fall 2020 & 2021*
 
-
-### Microéconomie 5
-
-#### Solutions des TDs
-
-Ces solutions sont interactives et utilisent `R` pour les représentations graphiques.
+Ces solutions de TD sont interactives et utilisent `R` pour les représentations graphiques.
 Les parties codées en `R` ne sont pas nécessaires à la compréhension du cours.
 
 TD1 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/e3617ee0862b9505c886cf875c5a3370562e72fd?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD1-ex1.ipynb) 
@@ -32,5 +25,14 @@ TD8 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/e3617ee08
    
 Si Binder ne fonctionne pas, des versions statiques sont disponibles [ici](https://github.com/antoine-jacquet/binder-teaching/tree/main/Microéconomie%205).
 
+
+#### Game theory – 1st year master
+
+*Fall 2018 & 2019*
+
+
+#### Mathematics – 1st year bachelor
+
+*Winter 2019 & 2020*
 
 

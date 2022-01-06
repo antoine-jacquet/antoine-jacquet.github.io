@@ -18,4 +18,4 @@ Office T436
 1, Esplanade de l’Université  
 31 080 Toulouse, France
 
-antoine\[dot\]jacquet\[at\]tse-fr\[dot\]eu
+antoine.jacquet \[at\] tse-fr.eu

@@ -11,7 +11,7 @@ You can find my resume [here](assets/images/CV_AJacquet.pdf).
 I am visiting Columbia University for the Spring 2022 semester.
 
 
-Contact:
+##### Contact info
 
 Toulouse School of Economics  
 Office T436  

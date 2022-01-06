@@ -5,7 +5,9 @@ layout: default
 ## About me
 
 I am a PhD candidate in Economics at the Toulouse School of Economics.  
-My research interests are...  
+In my research, I am broadly interested in how culture interacts with economic incentives and outcomes.
+To do this, I use microeconomic theory, matching models, and econometrics.
+
 You can find my resume [here](assets/images/CV_AJacquet.pdf).  
 
 I am visiting Columbia University for the Spring 2022 semester.

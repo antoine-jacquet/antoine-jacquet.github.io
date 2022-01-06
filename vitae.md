@@ -5,7 +5,7 @@
 
 #### Education
 
-- 2017– : PhD student in Economics, Toulouse School of Economics
+- 2017– : PhD in Economics, Toulouse School of Economics
 - 2016: MSc in Economic History, London School of Economics
 - 2015: Engineer, Ecole Polytechnique
 - 2012: Preparatory classes in Mathematics and Physics

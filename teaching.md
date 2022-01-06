@@ -1,7 +1,7 @@
 
 ## Teaching
 
-#### Microeconomics – 3rd year bachelor (Microéconomie 5)
+#### Microeconomics – 3rd year bachelor \[Microéconomie 5\]
 
 *Fall 2020 & 2021*
 

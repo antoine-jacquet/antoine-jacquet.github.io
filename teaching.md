@@ -1,7 +1,16 @@
 
-## Microéconomie 5
+## Teaching
 
-### Solutions des TDs
+I have been teaching assistant for several courses at TSE.
+
+- **Game theory** (1st year master) \| Fall 2018 & 2019  
+- **Mathematics** (1st year bachelor) \| Winter 2019 & 2020  
+- **Microeconomics** (3rd year bachelor) \| Fall 2020 & 2021
+
+
+### Microéconomie 5
+
+#### Solutions des TDs
 
 Ces solutions sont interactives et utilisent `R` pour les représentations graphiques.
 Les parties codées en `R` ne sont pas nécessaires à la compréhension du cours.

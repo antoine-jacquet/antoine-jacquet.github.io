@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-<style type="text/css">
-ul {
-font-size: 12px;
-}
-</style>
 
 ## Teaching
 

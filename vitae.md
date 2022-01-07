@@ -41,7 +41,7 @@ h4 + ul {
 - 2020: TSE PhD workshop; TSE Behavior Institutions and Development workshop
 - 2019: TSE Behavior Institutions and Development workshop; ASREC graduate workshop
 - 2018: ASREC graduate workshop
-- 2016: LSE Faith \& Leadership program
+- 2016: LSE Faith & Leadership program
 
 
 #### Scholarships, grants

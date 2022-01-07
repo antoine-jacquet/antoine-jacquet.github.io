@@ -13,7 +13,12 @@ h6 {
 }
 ul {
   font-size: 12px;
-  padding-top: 0px;
+}
+h6 + ul {
+  margin-top: -10px;
+}
+h4 + ul {
+  margin-top: -10px;
 }
 </style>
 

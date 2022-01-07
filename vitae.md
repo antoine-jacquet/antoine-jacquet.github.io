@@ -34,13 +34,6 @@ h4 + ul {
 - 2012: Preparatory classes in Mathematics and Physics
 
 
-#### Teaching assistantship
-
-- Fall 2020 & 2021: *Microeconomics* (3rd year bachelor)
-- Fall 2018 & 2019: *Game theory* (1st year master) 
-- Winter 2019 & 2020: *Mathematics* (1st year bachelor)   
-
-
 #### Scholarships, grants
 
 ###### Scholarships
@@ -51,3 +44,11 @@ h4 + ul {
 ###### Grants
 - 2022: EUR mobility grant, Toulouse School of Economics
 - 2020: Mobility grant (declined), Université Toulouse Capitole
+
+
+#### Teaching assistantship
+
+- Fall 2020 & 2021: *Microeconomics* (3rd year bachelor)
+- Fall 2018 & 2019: *Game theory* (1st year master) 
+- Winter 2019 & 2020: *Mathematics* (1st year bachelor)   
+

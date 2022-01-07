@@ -50,8 +50,8 @@ h4 + ul {
 
 #### Conferences, seminars, workshops
 
-<!-- -2022: (scheduled:) math+econ+code workshop on optimal transport and economic applications; ASREC conference -->
-- 2021: RTP Evolutionary Human Sciences; math+econ+code workshop on equilibrium transport and matching models; TSE PhD workshop
+<!-- -2022: (scheduled:) Math+econ+code workshop on optimal transport and economic applications; ASREC conference -->
+- 2021: RTP Evolutionary Human Sciences; Math+econ+code workshop on equilibrium transport and matching models; TSE PhD workshop
 - 2020: TSE Behavior Institutions and Development workshop; TSE PhD workshop
 - 2019: TSE Behavior Institutions and Development workshop; ASREC graduate workshop
 - 2018: ASREC graduate workshop

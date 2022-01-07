@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<style type="text/css">
+ul {
+font-size: 12px;
+}
+</style>
+
 ## Vitæ
 
 [CV as pdf](/assets/images/CV_AJacquet.pdf)

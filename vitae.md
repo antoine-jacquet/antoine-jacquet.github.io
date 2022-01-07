@@ -34,6 +34,16 @@ h4 + ul {
 - 2012: Preparatory classes in Mathematics and Physics
 
 
+#### Conferences, seminars, workshops
+
+- 2022: (scheduled:) ASREC conference
+- 2021: RTP Evolutionary Human Sciences, TSE student workshop
+- 2020: TSE student workshop, BID worksop
+- 2019: BID worksop, ASREC graduate workshop
+- 2018: ASREC graduate workshop
+- 2016: LSE Faith \& Leadership program
+
+
 #### Scholarships, grants
 
 ###### Scholarships

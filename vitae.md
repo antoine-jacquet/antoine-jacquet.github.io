@@ -3,6 +3,12 @@ layout: default
 ---
 
 <style type="text/css">
+body {
+font-size: 12px;
+}
+h4 {
+font-size: 12px;
+}
 ul {
 font-size: 12px;
 }

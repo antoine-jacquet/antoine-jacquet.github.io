@@ -8,7 +8,7 @@ I am a PhD candidate in Economics at the [Toulouse School of Economics](https://
 In my research, I am broadly interested in how culture interacts with economic incentives and outcomes.
 To do this, I use microeconomic theory, matching models, and econometrics.
 
-Previously, I completed undergraduate studies in mathematics and economics at [Ecole Polytechnique](https://www.tse-fr.eu), and obtained an MSc in Quantitative Economic History from the [London School of Economics](https://www.lse.ac.uk). From 2017 to 2020 I was affiliated with the [Institute for Advanced Study in Toulouse](https://www.iast.fr).
+Previously, I completed my undergraduate studies in mathematics and economics at [Ecole Polytechnique](https://www.tse-fr.eu), and obtained a MSc from the [London School of Economics](https://www.lse.ac.uk). From 2017 to 2020 I was affiliated with the [Institute for Advanced Study in Toulouse](https://www.iast.fr).
 
 You can find my resume [here](assets/images/CV_AJacquet.pdf).  
 

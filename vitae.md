@@ -15,7 +15,7 @@ ul {
   font-size: 12px;
 }
 h6 + ul {
-  margin-top: -10px;
+  margin-top: -15px;
 }
 h4 + ul {
   margin-top: -10px;

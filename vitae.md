@@ -22,9 +22,11 @@ h4 + ul {
 }
 </style>
 
+
 ## Vitæ
 
 [CV as pdf](/assets/images/CV_AJacquet.pdf)
+
 
 #### Education
 
@@ -32,16 +34,6 @@ h4 + ul {
 - 2016: MSc in Economic History, London School of Economics
 - 2015: Engineer, Ecole Polytechnique
 - 2012: Preparatory classes in Mathematics and Physics
-
-
-#### Conferences, seminars, workshops
-
-<!-- -2022: (scheduled:) math+econ+code workshop on optimal transport and economic applications; ASREC conference -->
-- 2021: RTP Evolutionary Human Sciences; math+econ+code workshop on equilibrium transport and matching models; TSE PhD workshop
-- 2020: TSE PhD workshop; TSE Behavior Institutions and Development workshop
-- 2019: TSE Behavior Institutions and Development workshop; ASREC graduate workshop
-- 2018: ASREC graduate workshop
-- 2016: LSE Faith & Leadership program
 
 
 #### Scholarships, grants
@@ -54,6 +46,16 @@ h4 + ul {
 ###### Grants
 - 2022: EUR mobility grant, Toulouse School of Economics
 - 2020: Mobility grant (declined), Université Toulouse Capitole
+
+
+#### Conferences, seminars, workshops
+
+<!-- -2022: (scheduled:) math+econ+code workshop on optimal transport and economic applications; ASREC conference -->
+- 2021: RTP Evolutionary Human Sciences; math+econ+code workshop on equilibrium transport and matching models; TSE PhD workshop
+- 2020: TSE PhD workshop; TSE Behavior Institutions and Development workshop
+- 2019: TSE Behavior Institutions and Development workshop; ASREC graduate workshop
+- 2018: ASREC graduate workshop
+- 2016: LSE Faith & Leadership program
 
 
 #### Teaching assistantship

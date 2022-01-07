@@ -24,8 +24,7 @@ layout: default
 ##### Scholarships
 
 - 2022: EUR mobility grant, Toulouse School of Economics
-– 2020–: Research & teaching scholarship, Université Toulouse Capitole
-– 2020: Mobility grant (declined), Université Toulouse Capitole
-– 2017–2020: Doctoral scholarship, Institute for Advanced Study in Toulouse
+- 2020–: Research & teaching scholarship, Université Toulouse Capitole
+- 2020: Mobility grant (declined), Université Toulouse Capitole
+- 2017–2020: Doctoral scholarship, Institute for Advanced Study in Toulouse
 - 2012–2016: Full scholarship, Ecole Polytechnique
-

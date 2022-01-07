@@ -28,3 +28,10 @@ layout: default
 - 2020: Mobility grant (declined), Université Toulouse Capitole
 - 2017–2020: Doctoral scholarship, Institute for Advanced Study in Toulouse
 - 2012–2016: Full scholarship, Ecole Polytechnique
+
+#### Tests
+
+|Header1 |Header2 |
+|:--- | :---: |
+|2020–:| Research & teaching scholarship, Université Toulouse Capitole|
+|2012–2016:|Full scholarship, Ecole Polytechnique|

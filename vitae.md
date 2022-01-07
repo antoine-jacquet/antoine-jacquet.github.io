@@ -14,7 +14,7 @@ layout: default
 - 2012: Preparatory classes in Mathematics and Physics
 
 
-#### Teaching assistance
+#### Teaching assistantship
 
 - Fall 2018 & 2019: *Game theory* (1st year master) 
 - Fall 2020 & 2021: *Microeconomics* (3rd year bachelor)
@@ -28,9 +28,3 @@ layout: default
 - 2020: Mobility grant (declined), Université Toulouse Capitole
 - 2017–2020: Doctoral scholarship, Institute for Advanced Study in Toulouse
 - 2012–2016: Full scholarship, Ecole Polytechnique
-
-#### Tests
-
-|:--- | :--- |
-|2020–:| Research & teaching scholarship, Université Toulouse Capitole|
-|2012–2016:|Full scholarship, Ecole Polytechnique|

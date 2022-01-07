@@ -31,7 +31,6 @@ layout: default
 
 #### Tests
 
-|Header1 |Header2 |
-|:--- | :---: |
+|:--- | :--- |
 |2020–:| Research & teaching scholarship, Université Toulouse Capitole|
 |2012–2016:|Full scholarship, Ecole Polytechnique|

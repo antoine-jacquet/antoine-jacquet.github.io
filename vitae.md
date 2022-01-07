@@ -4,17 +4,18 @@ layout: default
 
 <style type="text/css">
 h4 {
-font-size: 12px;
+  font-size: 12px;
 }
 h6 {
-color:#595959;
-font-weight: 400;
+  font-size: 12px;
+  color:#595959;
+  font-weight: 400;
 }
 ul {
-font-size: 12px;
+  font-size: 12px;
 }
 h6 + ul {
-margin-top: -10px;
+  margin-top: -10px;
 }
 </style>
 

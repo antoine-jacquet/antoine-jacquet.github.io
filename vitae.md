@@ -13,6 +13,9 @@ font-weight: 400;
 ul {
 font-size: 12px;
 }
+h6 + ul {
+margin-top: -10px;
+}
 </style>
 
 ## Vitæ

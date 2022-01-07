@@ -36,10 +36,10 @@ h4 + ul {
 
 #### Conferences, seminars, workshops
 
-- 2022: (scheduled:) ASREC conference
-- 2021: RTP Evolutionary Human Sciences, TSE student workshop
-- 2020: TSE student workshop, BID worksop
-- 2019: BID worksop, ASREC graduate workshop
+<!-- -2022: (scheduled:) math+econ+code workshop, ASREC conference -->
+- 2021: RTP Evolutionary Human Sciences, math+econ+code workshop, TSE PhD workshop
+- 2020: TSE PhD workshop, TSE Behavior, Institutions and Development workshop
+- 2019: TSE Behavior, Institutions and Development workshop; ASREC graduate workshop
 - 2018: ASREC graduate workshop
 - 2016: LSE Faith \& Leadership program
 

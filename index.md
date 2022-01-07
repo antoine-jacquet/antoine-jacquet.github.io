@@ -12,10 +12,10 @@ Previously, I completed my undergraduate studies in mathematics and economics at
 
 You can find my resume [here](assets/images/CV_AJacquet.pdf).  
 
-I am visiting Columbia University for the Spring 2022 semester.
+*I am visiting Columbia University for the Spring 2022 semester.*
 
 
-#### Contact info
+### Contact info
 
 Email: antoine.jacquet \[at\] tse-fr.eu
 

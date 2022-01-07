@@ -6,7 +6,7 @@ layout: default
 
 [CV as pdf](/assets/images/CV_AJacquet.pdf)
 
-##### Education
+#### Education
 
 - 2017– : PhD in Economics, Toulouse School of Economics
 - 2016: MSc in Economic History, London School of Economics
@@ -14,14 +14,14 @@ layout: default
 - 2012: Preparatory classes in Mathematics and Physics
 
 
-##### Teaching assistance
+#### Teaching assistance
 
 - Fall 2018 & 2019: *Game theory* (1st year master) 
 - Fall 2020 & 2021: *Microeconomics* (3rd year bachelor)
 - Winter 2019 & 2020: *Mathematics* (1st year bachelor)   
 
 
-##### Scholarships
+#### Scholarships
 
 - 2022: EUR mobility grant, Toulouse School of Economics
 - 2020–: Research & teaching scholarship, Université Toulouse Capitole

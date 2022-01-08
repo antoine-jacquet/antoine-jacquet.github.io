@@ -4,9 +4,11 @@ layout: default
 
 ## Teaching
 
-### Microeconomics – 3rd year bachelor \[Microéconomie 5\]
+Material in French for Mathematics 1st year \[Mathematics 2\] and Microeconomics 3rd year \[Microeconomics 5\].
 
-*Fall 2020 & 2021*
+### Microéconomie 5
+
+*Automne 2020 & 2021*
 
 Ces solutions de TD sont interactives et utilisent `R` pour les représentations graphiques.
 Les parties codées en `R` ne sont pas nécessaires à la compréhension du cours.
@@ -29,13 +31,13 @@ TD8 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/e3617ee08
 Si Binder ne fonctionne pas, des versions statiques sont disponibles [ici](https://github.com/antoine-jacquet/binder-teaching/tree/main/Microéconomie%205).
 
 
-### Game theory – 1st year master
+### Game theory
 
 *Fall 2018 & 2019*
 
 
-### Mathematics – 1st year bachelor
+### Mathématiques 2
 
-*Winter 2019 & 2020*
+*Hiver 2019 & 2020*
 
 

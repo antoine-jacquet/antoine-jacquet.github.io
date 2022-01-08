@@ -4,7 +4,7 @@ layout: default
 
 ## Teaching
 
-Material in French for Mathematics 1st year \[Mathematics 2\] and Microeconomics 3rd year \[Microeconomics 5\].
+Material in French for Mathematics 1st year (Mathématiques 2) and Microeconomics 3rd year (Microéconomie 5).
 
 ### Microéconomie 5
 

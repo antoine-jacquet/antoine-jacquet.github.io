@@ -31,7 +31,7 @@ We investigate both theoretically and empirically the determinants of veiling am
 
 #### The evolution of cognitively appealing rituals
 <p style="font-size:12px;">
-(with Maxime Derex and Manvir Singh)
+(with Maxime Derex & Manvir Singh)
 </p>
 
 

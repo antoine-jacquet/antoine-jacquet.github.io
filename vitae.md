@@ -58,9 +58,14 @@ h4 + ul {
 - 2016: LSE Faith & Leadership program
 
 
-#### Teaching assistantship
+#### Teaching & research experience
 
+###### Teaching assistantship
 - Fall 2020 & 2021: *Microeconomics* (3rd year bachelor)
 - Fall 2018 & 2019: *Game theory* (1st year master) 
-- Winter 2019 & 2020: *Mathematics* (1st year bachelor)   
+- Winter 2019 & 2020: *Mathematics* (1st year bachelor)  
+
+###### Other research experience
+- 2019: Field researcher, University of New South Wales (Choiseul, Solomon Islands)
+– 2015: Research intern, French Institute of Pondicherry (Pondicherry, India)
 

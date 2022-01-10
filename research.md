@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<style type="text/css"> h4 + p { margin-top: -15px; } h5 + p { margin-top: -15px; } </style>
+<style type="text/css"> h4 + p { margin-top: -15px; } </style>
 
 ## Research
 

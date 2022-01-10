@@ -13,7 +13,7 @@ What role does human capital play in intergenerational cultural transmission? I 
 
 
 #### Veiling and Economic Participation of Muslim Women in France
-#####(with Sébastien Montpetit)  
+##### (with Sébastien Montpetit)  
 <p style="font-size:12px;">
 We investigate both theoretically and empirically the determinants of veiling among Muslim women in France, and we explore the relationship between veiling and economic participation in this population. To do so, we develop an extension of Carvalho’s economic theory of veiling. Motivated by empirical observations in the literature in social sciences, we introduce an additional motive for veiling to the existing theory. Namely, we distinguish the perception of the Islamic veil by the French secular society to that of the woman’s close community. We empirically test the predictions of this theoretical model using rich French data which contains unique information on religion and religiosity. Finally, this study aims at bringing a new perspective on the potential consequences of secular policies in France.
 </p>
@@ -23,11 +23,11 @@ We investigate both theoretically and empirically the determinants of veiling am
 
 
 #### Conformity in mate choice, the overlooked social component of animal and human culture  
-#####(with Sabine Nöbel, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin)
+##### (with Sabine Nöbel, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin)
 
 
 #### The evolution of cognitively appealing rituals
-#####(with Maxime Derex and Manvir Singh)
+##### (with Maxime Derex and Manvir Singh)
 
 
 

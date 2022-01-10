@@ -67,5 +67,5 @@ h4 + ul {
 
 ###### Other research experience
 - 2019: Field researcher, University of New South Wales (Choiseul, Solomon Islands)
-– 2015: Research intern, French Institute of Pondicherry (Pondicherry, India)
+- 2015: Research intern, French Institute of Pondicherry (Pondicherry, India)
 

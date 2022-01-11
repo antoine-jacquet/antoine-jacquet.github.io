@@ -33,7 +33,7 @@ We investigate both theoretically and empirically the determinants of veiling am
 </p>
 
 
-<h3 style="margin-left:10px;"> Work in progress </h3>
+<h3 style="margin-top:10px;margin-left:10px;"> Work in progress </h3>
 
 #### A unifying framework for the stable coexistence of cultural traits
 <details style="font-size:12px;"> <summary> Abstract </summary>

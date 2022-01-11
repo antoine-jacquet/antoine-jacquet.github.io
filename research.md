@@ -34,7 +34,7 @@ We investigate both theoretically and empirically the determinants of veiling am
 </details>
 
 #### Conformity in mate choice, the overlooked social component of animal and human culture
-<p style="margin-bottom:30px;">
+<p style="font-size:12px;margin-bottom:30px;">
 (with Sabine Nöbel, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin)
 </p>
 
@@ -49,7 +49,7 @@ I use the canonical evolutionary model of frequency-dependent selection to devel
 </details>
 
 #### The evolution of cognitively appealing rituals
-<p>
+<p style="font-size:12px;">
 (with Maxime Derex & Manvir Singh)
 </p>
 

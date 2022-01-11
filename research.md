@@ -28,10 +28,11 @@ We investigate both theoretically and empirically the determinants of veiling am
 
 
 #### A unifying framework for the stable coexistence of cultural traits
+<details> <summary> Abstract </summary>
 <p style="font-size:12px;">
 I use the canonical evolutionary model of frequency-dependent selection to develop a unifying framework for the stable coexistence of cultural traits. First, I derive general theoretical results on population dynamics for some common cases, such as random matching or linear assortative matching. In a second step, I consider several examples from the economics and biology literatures, which document and provide reasons for the stable coexistence of cultural traits. I show that these examples can be seen as particular applications of the unifying framework that I propose. Such applications provide natural extensions to the baseline framework, and illustrate its flexibility.
 </p>
-
+</details>
 
 #### Conformity in mate choice, the overlooked social component of animal and human culture
 <p style="font-size:12px;">

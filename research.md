@@ -8,7 +8,7 @@ layout: default
 ## Research
 
 
-<h3 style="margin-left:10px;"> Working papers </h3>
+### Working papers
 
 #### Culture, human capital, and marital homogamy in France
 <details open style="font-size:12px;"> <summary> Abstract </summary>
@@ -28,12 +28,12 @@ We investigate both theoretically and empirically the determinants of veiling am
 </details>
 
 #### Conformity in mate choice, the overlooked social component of animal and human culture
-<p style="font-size:12px;">
+<p style="font-size:12px;margin-bottom:30px;">
 (with Sabine Nöbel, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin)
 </p>
 
 
-<h3 style="margin-top:10px;margin-left:10px;"> Work in progress </h3>
+### Work in progress
 
 #### A unifying framework for the stable coexistence of cultural traits
 <details style="font-size:12px;"> <summary> Abstract </summary>

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<style type="text/css"> h4 + p { margin-top: -15px; } </style>
+
 
 ## Research
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<style type="text/css"> details { margin-bottom: 10px; } h4 + details { margin-top: -15px; } </style>
+<style type="text/css"> details { margin-bottom: 20px; } h4 + p { margin-top: -15px; } h4 + details { margin-top: -15px; } </style>
 
 
 ## Research

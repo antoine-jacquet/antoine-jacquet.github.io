@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<style type="text/css"> details { margin-bottom: 20px; } h4 + p { margin-top: -15px; } h4 + details { margin-top: -15px; } </style>
+<style type="text/css"> details { margin-bottom: 20px; } h4 + p { margin-top: -15px; } h4 + details { margin-top: -15px; } p + details { margin-top: -15px; } </style>
 
 
 ## Research
@@ -17,7 +17,7 @@ What role does human capital play in intergenerational cultural transmission? I 
 
 
 #### Veiling and Economic Participation of Muslim Women in France
-<p style="font-size:12px;margin-top:-15px;">
+<p style="font-size:12px;">
 (with Sébastien Montpetit)  
 </p>
 <details> <summary> Abstract </summary>

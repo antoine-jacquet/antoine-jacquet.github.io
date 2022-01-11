@@ -18,17 +18,17 @@ What role does human capital play in intergenerational cultural transmission? I 
 </details>
 
 #### Veiling and economic participation of Muslim women in France
-<p style="font-size:12px;">
+<p style="font-size:12px;margin-left:10px;">
 (with Sébastien Montpetit)  
 </p>
-<details style="font-size:12px;"> <summary> Abstract </summary>
-<p style="margin-left:10px;text-align:justify;">
+<details style="font-size:12px;margin-left:10px;"> <summary> Abstract </summary>
+<p style="text-align:justify;">
 We investigate both theoretically and empirically the determinants of veiling among Muslim women in France, and we explore the relationship between veiling and economic participation in this population. To do so, we develop an extension of Carvalho’s economic theory of veiling. Motivated by empirical observations in the literature in social sciences, we introduce an additional motive for veiling to the existing theory. Namely, we distinguish the perception of the Islamic veil by the French secular society to that of the woman’s close community. We empirically test the predictions of this theoretical model using rich French data containing unique information on religion and religiosity. Finally, this study aims at bringing a new perspective on the potential consequences of secular policies in France.
 </p>
 </details>
 
 #### Conformity in mate choice, the overlooked social component of animal and human culture
-<p style="font-size:12px;margin-bottom:30px;">
+<p style="font-size:12px;margin-left:10px;margin-bottom:30px;">
 (with Sabine Nöbel, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin)
 </p>
 
@@ -36,14 +36,14 @@ We investigate both theoretically and empirically the determinants of veiling am
 ### Work in progress
 
 #### A unifying framework for the stable coexistence of cultural traits
-<details style="font-size:12px;"> <summary> Abstract </summary>
-<p style="margin-left:10px;text-align:justify;">
+<details style="font-size:12px;margin-left:10px;"> <summary> Abstract </summary>
+<p style="text-align:justify;">
 I use the canonical evolutionary model of frequency-dependent selection to develop a unifying framework for the stable coexistence of cultural traits. First, I derive general theoretical results on population dynamics for some common cases, such as random matching or linear assortative matching. In a second step, I consider several examples from the economics and biology literatures, which document and provide reasons for the stable coexistence of cultural traits. I show that these examples can be seen as particular applications of the unifying framework that I propose. Such applications provide natural extensions to the baseline framework, and illustrate its flexibility.
 </p>
 </details>
 
 #### The evolution of cognitively appealing rituals
-<p style="font-size:12px;">
+<p style="font-size:12px;margin-left:10px;">
 (with Maxime Derex & Manvir Singh)
 </p>
 

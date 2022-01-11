@@ -194,8 +194,11 @@ footer {
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
-details:hover {
+details {
   margin:0 0 20px;
+}
+
+details:hover {
   cursor:pointer;
 }
 

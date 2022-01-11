@@ -24,7 +24,7 @@ What role does human capital play in intergenerational cultural transmission? I 
 </details>
 
 #### Veiling and economic participation of Muslim women in France
-<p style="font-size:12px;margin-left:10px;">
+<p style="font-size:12px;">
 (with Sébastien Montpetit)  
 </p>
 <details> <summary> Abstract </summary>

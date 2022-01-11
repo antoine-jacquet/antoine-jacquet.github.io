@@ -8,13 +8,14 @@ layout: default
 ## Research
 
 
+### Working papers
+
 #### Culture, human capital, and marital homogamy in France
 <details open style="font-size:12px;"> <summary> Abstract </summary>
 <p>
 What role does human capital play in intergenerational cultural transmission? I build a model of household decision-making in which parents consume a private good, and also care about passing on their culture to their children, which they can do by trading off their labor supply against time devoted to cultural transmission. Human capital is allowed to increase both the returns on labor and the productivity in transmission. I study how the optimal time allocations in households vary with the parents’ respective cultural traits and human capital levels, finding that they depend crucially on how productive human capital is in the transmission of cultural traits. The model in turn predicts culturally assortative matching on the marriage market, while assortativity on human capital can go either way depending on this productivity parameter. I then test the model on survey data on religion from France. Descriptive evidence suggests that parental education is negatively correlated with religious homogamy, and with successful cultural transmission to the children. In ongoing work, I estimate the structural parameters of the model using two different kind of population moments: (1) the marriage patterns across religions, by embedding the model in a matching framework, and (2) the religious transmission patterns.
 </p>
 </details>
-
 
 #### Veiling and economic participation of Muslim women in France
 <p style="font-size:12px;">
@@ -26,6 +27,13 @@ We investigate both theoretically and empirically the determinants of veiling am
 </p>
 </details>
 
+#### Conformity in mate choice, the overlooked social component of animal and human culture
+<p style="font-size:12px;">
+(with Sabine Nöbel, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin)
+</p>
+
+
+### Work in progress
 
 #### A unifying framework for the stable coexistence of cultural traits
 <details style="font-size:12px;"> <summary> Abstract </summary>
@@ -33,12 +41,6 @@ We investigate both theoretically and empirically the determinants of veiling am
 I use the canonical evolutionary model of frequency-dependent selection to develop a unifying framework for the stable coexistence of cultural traits. First, I derive general theoretical results on population dynamics for some common cases, such as random matching or linear assortative matching. In a second step, I consider several examples from the economics and biology literatures, which document and provide reasons for the stable coexistence of cultural traits. I show that these examples can be seen as particular applications of the unifying framework that I propose. Such applications provide natural extensions to the baseline framework, and illustrate its flexibility.
 </p>
 </details>
-
-#### Conformity in mate choice, the overlooked social component of animal and human culture
-<p style="font-size:12px;">
-(with Sabine Nöbel, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin)
-</p>
-
 
 #### The evolution of cognitively appealing rituals
 <p style="font-size:12px;">

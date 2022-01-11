@@ -2,33 +2,29 @@
 layout: default
 ---
 
-<style type="text/css"> h4 + p { margin-top: -15px; } </style>
+<style type="text/css"> h4 + details { margin-top: -15px; } </style>
 
 
 ## Research
 
 
 #### Culture, human capital, and marital homogamy in France
-<details> <summary> <i>Abstract</i> </summary>
+<details> <summary> Abstract </summary>
 <p style="font-size:12px;">
 What role does human capital play in intergenerational cultural transmission? I build a model of household decision-making in which parents consume a private good, and also care about passing on their culture to their children, which they can do by trading off their labor supply against time devoted to cultural transmission. Human capital is allowed to increase both the returns on labor and the productivity in transmission. I study how the optimal time allocations in households vary with the parents’ respective cultural traits and human capital levels, finding that they depend crucially on how productive human capital is in the transmission of cultural traits. The model in turn predicts culturally assortative matching on the marriage market, while assortativity on human capital can go either way depending on this productivity parameter. I then test the model on survey data on religion from France. Descriptive evidence suggests that parental education is negatively correlated with religious homogamy, and with successful cultural transmission to the children. In ongoing work, I estimate the structural parameters of the model using two different kind of population moments: (1) the marriage patterns across religions, by embedding the model in a matching framework, and (2) the religious transmission patterns.
 </p>
 </details>
 
 
-#### Culture, human capital, and marital homogamy in France
-<p style="font-size:12px;">
-What role does human capital play in intergenerational cultural transmission? I build a model of household decision-making in which parents consume a private good, and also care about passing on their culture to their children, which they can do by trading off their labor supply against time devoted to cultural transmission. Human capital is allowed to increase both the returns on labor and the productivity in transmission. I study how the optimal time allocations in households vary with the parents’ respective cultural traits and human capital levels, finding that they depend crucially on how productive human capital is in the transmission of cultural traits. The model in turn predicts culturally assortative matching on the marriage market, while assortativity on human capital can go either way depending on this productivity parameter. I then test the model on survey data on religion from France. Descriptive evidence suggests that parental education is negatively correlated with religious homogamy, and with successful cultural transmission to the children. In ongoing work, I estimate the structural parameters of the model using two different kind of population moments: (1) the marriage patterns across religions, by embedding the model in a matching framework, and (2) the religious transmission patterns.
-</p>
-
-
 #### Veiling and Economic Participation of Muslim Women in France
-<p style="font-size:12px;">
+<p style="font-size:12px;margin-top:-15px;margin-bottom:-15px;">
 (with Sébastien Montpetit)  
 </p>
-<p style="font-size:12px;margin-top:-15px;">
+<details> <summary> Abstract </summary>
+<p style="font-size:12px;">
 We investigate both theoretically and empirically the determinants of veiling among Muslim women in France, and we explore the relationship between veiling and economic participation in this population. To do so, we develop an extension of Carvalho’s economic theory of veiling. Motivated by empirical observations in the literature in social sciences, we introduce an additional motive for veiling to the existing theory. Namely, we distinguish the perception of the Islamic veil by the French secular society to that of the woman’s close community. We empirically test the predictions of this theoretical model using rich French data containing unique information on religion and religiosity. Finally, this study aims at bringing a new perspective on the potential consequences of secular policies in France.
 </p>
+</details>
 
 
 #### A unifying framework for the stable coexistence of cultural traits

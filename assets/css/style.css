@@ -198,7 +198,7 @@ details {
   margin:0 0 20px;
 }
 
-details:hover {
+summary:hover {
   cursor:pointer;
 }
 

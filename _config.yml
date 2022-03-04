@@ -21,7 +21,7 @@ exclude:
 # Others
 BASE_PATH: https://antoine-jacquet.github.io/
 show_downloads: false
-google_analytics:
+google_analytics: G-YWFKS8377X
 mathjax: true
 
 # Specify the author for blog posts

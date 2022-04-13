@@ -20,7 +20,7 @@ h6 + ul {
 h4 + ul {
   margin-top: -10px;
 }
-h4 + h§ {
+h4 + h6 {
   margin-top: -10px;
 }
 </style>

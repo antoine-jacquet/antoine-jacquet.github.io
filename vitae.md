@@ -44,7 +44,7 @@ h4 + ul {
 - 2012–2016: Full scholarship, Ecole Polytechnique
 
 ###### Grants
-– 2022: Mobility grant, Université Toulouse Capitole 
+- 2022: Mobility grant, Université Toulouse Capitole
 - 2022: EUR mobility grant, Toulouse School of Economics
 - 2020: Mobility grant (declined), Université Toulouse Capitole
 

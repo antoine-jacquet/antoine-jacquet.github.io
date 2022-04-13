@@ -7,6 +7,7 @@ layout: default
 Material in French for Mathematics 1st year (Mathématiques 2) and Microeconomics 3rd year (Microéconomie 5).
 
 ### Microéconomie 5
+
 *Automne 2020 & 2021*
 
 Ces solutions de TD sont interactives et utilisent `R` pour les représentations graphiques.

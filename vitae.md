@@ -23,6 +23,9 @@ h4 + ul {
 h4 + h6 {
   margin-top: -10px;
 }
+ul + h6 {
+  margin-top: -5px;
+}
 </style>
 
 

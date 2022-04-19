@@ -12,7 +12,7 @@ Previously, I completed my undergraduate studies in mathematics and economics at
 
 You can find my resume [here](assets/images/CV_AJacquet.pdf).  
 
-I am visiting Columbia University until July 2022.
+I am visiting the department of Economics at Columbia University until July 2022.
 
 
 ### Contact info

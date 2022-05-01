@@ -57,7 +57,7 @@ ul + h6 {
 
 #### Conferences, seminars, workshops
 
-- 2022: Math+econ+code workshop on optimal transport and economic applications; (upcoming) ASREC conference; Spring Meeting of Young Economists; TSE Applied Micro workshop
+- 2022: Math+econ+code workshop on optimal transport and economic applications; (upcoming) ASREC conference; <s>Spring Meeting of Young Economists</s>; IRES workshop; CIREQ conference; TSE Applied Micro workshop
 - 2021: RTP Evolutionary Human Sciences; TSE PhD workshop; Math+econ+code workshop on equilibrium transport and matching models
 - 2020: TSE PhD workshop; TSE Behavior Institutions and Development workshop
 - 2019: TSE Behavior Institutions and Development workshop; ASREC graduate workshop

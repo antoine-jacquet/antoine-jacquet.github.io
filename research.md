@@ -33,10 +33,15 @@ We investigate both theoretically and empirically the determinants of veiling am
 </p>
 </details>
 
+
+### Work in progress
+
 #### Conformity in mate choice, the overlooked social component of animal and human culture
 <p style="font-size:12px;margin-bottom:30px;">
 (with Sabine Nöbel, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin)
+Accepted at Biological Reviews
 </p>
+
 
 
 ### Work in progress

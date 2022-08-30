@@ -54,8 +54,8 @@ ul + h6 {
 - 2022: EUR mobility grant, Toulouse School of Economics
 - 2020: Mobility grant (declined), Université Toulouse Capitole
 
-###### Scholarships
-- 2022: TSEconomist teaching award
+###### Awards
+- 2022: TSE teaching award, best Teaching Assistant
 
 #### Conferences, seminars, workshops
 

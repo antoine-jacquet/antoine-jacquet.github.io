@@ -55,7 +55,7 @@ ul + h6 {
 - 2020: Mobility grant (declined), Université Toulouse Capitole
 
 ###### Awards
-- 2022: Best Teaching Assistant award (3rd year bachelor), Toulouse School of Economics
+- 2022: Best Teaching Assistant award, Toulouse School of Economics
 
 #### Conferences, seminars, workshops
 

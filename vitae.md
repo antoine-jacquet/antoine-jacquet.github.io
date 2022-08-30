@@ -42,7 +42,7 @@ ul + h6 {
 - 2012: Preparatory classes in Mathematics and Physics
 
 
-#### Scholarships, grants
+#### Scholarships, grants, awards
 
 ###### Scholarships
 - 2020–2022: Research & teaching scholarship, Université Toulouse Capitole
@@ -54,10 +54,12 @@ ul + h6 {
 - 2022: EUR mobility grant, Toulouse School of Economics
 - 2020: Mobility grant (declined), Université Toulouse Capitole
 
+###### Scholarships
+- 2022: TSEconomist teaching award
 
 #### Conferences, seminars, workshops
 
-- 2022: Math+econ+code workshop on optimal transport and economic applications; ASREC conference; (upcoming) <s>Spring Meeting of Young Economists</s>; IRES workshop; CIREQ conference; TSE Applied Micro workshop
+- 2022: Math+econ+code workshop on optimal transport and economic applications; ASREC conference; <s>Spring Meeting of Young Economists</s>; IRES workshop; CIREQ conference; TSE Applied Micro workshop
 - 2021: RTP Evolutionary Human Sciences; TSE PhD workshop; Math+econ+code workshop on equilibrium transport and matching models
 - 2020: TSE PhD workshop; TSE Behavior Institutions and Development workshop
 - 2019: TSE Behavior Institutions and Development workshop; ASREC graduate workshop

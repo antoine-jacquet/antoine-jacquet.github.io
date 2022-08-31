@@ -47,6 +47,6 @@ Teaching material available on request.
 
 *Hiver 2019 & 2020*
 
-Disponible sur demande.
+Solutions disponibles sur demande.
 
 

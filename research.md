@@ -53,17 +53,21 @@ layout: default
 
 ### Work in progress
 
-#### A unifying framework for the stable coexistence of cultural traits
-<details> <summary> Abstract </summary>
-<p>
-I use the canonical evolutionary model of frequency-dependent selection to develop a unifying framework for the stable coexistence of cultural traits. First, I derive general theoretical results on population dynamics for some common cases, such as random matching or linear assortative matching. In a second step, I consider several examples from the economics and biology literatures, which document and provide reasons for the stable coexistence of cultural traits. I show that these examples can be seen as particular applications of the unifying framework that I propose. Such applications provide natural extensions to the baseline framework, and illustrate its flexibility.
-</p>
-</details>
+<ul>
+  <li>
+    <b> A unifying framework for the stable coexistence of cultural traits </b>
+    <details> <summary> Abstract </summary>
+    <p>
+    I use the canonical evolutionary model of frequency-dependent selection to develop a unifying framework for the stable coexistence of cultural traits. First, I derive general theoretical results on population dynamics for some common cases, such as random matching or linear assortative matching. In a second step, I consider several examples from the economics and biology literatures, which document and provide reasons for the stable coexistence of cultural traits. I show that these examples can be seen as particular applications of the unifying framework that I propose. Such applications provide natural extensions to the baseline framework, and illustrate its flexibility.
+    </p>
+    </details>
+  </li>
 
-#### The evolution of cognitively appealing rituals
-<p style="font-size:12px;">
-(with Maxime Derex & Manvir Singh)
-</p>
+  <li>
+    <b>The evolution of cognitively appealing rituals</b> <br />
+    (with Maxime Derex & Manvir Singh)
+  </li>
+</ul>
 
 
 

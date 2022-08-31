@@ -3,6 +3,7 @@ layout: default
 ---
 
 <style type="text/css">
+  ul { font-size: 14px; }
   details { margin-left: 10px; font-size: 12px; }
   h3 + ul { margin-top: -10px; }
   h4 + p { margin-top: -15px; }
@@ -17,7 +18,7 @@ layout: default
 
 ### Working papers
 
-<ul style="list-style-type:none; text-indent: -20px;">
+<ul>
   <li>
     <b> Culture, human capital, and marital homogamy in France </b>
     <details open> <summary> Abstract </summary>

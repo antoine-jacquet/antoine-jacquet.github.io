@@ -27,7 +27,7 @@ layout: default
   </li>
 
   <li>
-    <b style="font-size:12px;"> Veiling and economic participation of Muslim women in France </b>
+    <b> Veiling and economic participation of Muslim women in France </b>
     <p> (with Sébastien Montpetit) </p>
     <details> <summary> Abstract </summary>
     <p>

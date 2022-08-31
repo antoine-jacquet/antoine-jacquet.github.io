@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<style type="text/css">
+  h3 + p { margin-top: -15px; font-size: 12px; }
+</style>
+
 ## Teaching
 
 Material in French for Mathematics 1st year (Mathématiques 2) and Microeconomics 3rd year (Microéconomie 5).

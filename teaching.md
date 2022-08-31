@@ -40,9 +40,13 @@ Si Binder ne fonctionne pas, des versions statiques sont disponibles [ici](https
 
 *Fall 2018 & 2019*
 
+Teaching material available on request.
+
 
 ### Mathématiques 2
 
 *Hiver 2019 & 2020*
+
+Disponible sur demande.
 
 

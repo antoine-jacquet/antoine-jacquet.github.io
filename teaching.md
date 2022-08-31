@@ -3,7 +3,8 @@ layout: default
 ---
 
 <style type="text/css">
-  h3 + p { margin-top: -15px; font-size: 12px; }
+  h3 + p { margin-top: -15px; font-size: 14px; }
+  p + p { margin-top: -10px; font-size: 14px; }
 </style>
 
 ## Teaching

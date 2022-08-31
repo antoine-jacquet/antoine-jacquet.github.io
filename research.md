@@ -42,8 +42,8 @@ layout: default
 
 <ul>
   <li>
-    Sabine Nöbel, Antoine Jacquet, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin
-    ``Conformity in mate choice, the overlooked social component of animal and human culture''
+    Sabine Nöbel, Antoine Jacquet, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin <br />
+    "Conformity in mate choice, the overlooked social component of animal and human culture" <br />
     <b> <i> Biological Reviews </i>, DOI: 10.1111/brv.12899 </b>
   </li>
 </ul>

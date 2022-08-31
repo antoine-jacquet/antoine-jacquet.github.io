@@ -17,7 +17,7 @@ layout: default
 
 ### Working papers
 
-<ul style="list-style-type:none">
+<ul style="list-style-type:none; text-indent: -20px;">
   <li>
     <b> Culture, human capital, and marital homogamy in France </b>
     <details open> <summary> Abstract </summary>

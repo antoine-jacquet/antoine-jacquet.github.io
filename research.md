@@ -4,6 +4,7 @@ layout: default
 
 <style type="text/css">
   details { margin-left: 10px; font-size: 12px; }
+  h3 + ul { margin-top: -10px; }
   h4 + p { margin-top: -15px; }
   h4 + details { margin-top: -15px; }
   p + details { margin-top: -15px; }

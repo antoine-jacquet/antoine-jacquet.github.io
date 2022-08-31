@@ -4,7 +4,7 @@ layout: default
 
 <style type="text/css">
   h3 + p { margin-top: -15px; font-size: 14px; }
-  p + p { margin-top: -0px; font-size: 14px; }
+  p + h3 { margin-top: 5px; }
 </style>
 
 ## Teaching

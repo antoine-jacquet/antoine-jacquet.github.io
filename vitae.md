@@ -41,10 +41,14 @@ layout: default
 - 2015: Engineer, Ecole Polytechnique
 - 2012: Preparatory classes in Mathematics and Physics
 
+#### Research visits
+
+- 2022: Visiting scholar, Columbia University
 
 #### Scholarships, grants, awards
 
 ###### Scholarships
+- 2022-2023: Job Market scholarship, Toulouse School of Economics
 - 2020–2022: Research & teaching scholarship, Université Toulouse Capitole
 - 2017–2020: Doctoral scholarship, Institute for Advanced Study in Toulouse
 - 2012–2016: Full scholarship, Ecole Polytechnique

@@ -20,7 +20,7 @@ During the winter 2022 I was a visiting scholar at the Economics department at [
 <p style="margin-bottom:1cm;"> </p>
 
 
-### Contact info
+### Contact
 
 Email: antoine.jacquet \[at\] tse-fr.eu
 

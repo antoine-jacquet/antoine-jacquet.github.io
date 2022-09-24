@@ -12,7 +12,7 @@ Previously, I completed my undergraduate studies in mathematics and economics at
 From 2017 to 2020 I was affiliated with the [Institute for Advanced Study in Toulouse](https://www.iast.fr).
 During the winter 2022 I was a visiting scholar at the Economics department at [Columbia University](https://econ.columbia.edu).
 
-You can find my *resume* [here](assets/CV_AJacquet.pdf) and my *job market paper* [here](assets/JMP_AJacquet.pdf).  
+You can find my **resume** [here](assets/CV_AJacquet.pdf) and my **job market paper** [here](assets/JMP_AJacquet.pdf).  
 
 I will be available for interviews at the EEA and ASSA meetings.
 

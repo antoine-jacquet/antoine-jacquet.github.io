@@ -18,7 +18,7 @@ Material in French for Mathematics 1st year (Mathématiques 2) and Microeconomic
 Ces solutions de TD sont interactives et utilisent `R` pour les représentations graphiques.
 Les parties codées en `R` ne sont pas nécessaires à la compréhension du cours.
 
-*\[Caché pour les étudiants pour l'instant.\]*
+*\[Caché pour les étudiants.\]*
 
 <!--
 TD1 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/e3617ee0862b9505c886cf875c5a3370562e72fd?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD1-ex1.ipynb) 

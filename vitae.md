@@ -31,7 +31,7 @@ layout: default
 
 ## Vitæ
 
-[CV as pdf](/assets/images/CV_AJacquet.pdf)
+[CV as pdf](/assets/CV_AJacquet.pdf)
 
 
 #### Education

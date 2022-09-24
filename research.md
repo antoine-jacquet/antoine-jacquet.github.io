@@ -39,7 +39,13 @@ Finally, I estimate this model, finding that a systematic difference in preferen
     (with Sébastien Montpetit)
     <details> <summary> Abstract </summary>
     <p>
-    We investigate both theoretically and empirically the determinants of veiling among Muslim women in France, and we explore the relationship between veiling and economic participation in this population. To do so, we develop an extension of Carvalho’s economic theory of veiling. Motivated by empirical observations in the literature in social sciences, we introduce an additional motive for veiling to the existing theory. Namely, we distinguish the perception of the Islamic veil by the French secular society to that of the woman’s close community. We empirically test the predictions of this theoretical model using rich French data containing unique information on religion and religiosity. Finally, this study aims at bringing a new perspective on the potential consequences of secular policies in France.
+Veiling among Muslim women is a cultural practice which has been at the center of public debates in Western countries for a few decades, but is still poorly understood.
+Using unique confidential survey data over the largest sample of Muslim women in France, we unpack the various motives behind veiling behavior.
+Grounded in economic theory of veiling, our analysis shows that veiling is very costly in terms of economic integration.
+We find that women reporting to always wear a conspicuous religious symbol are significantly less likely to be economically active.
+Our results suggest that women are willing to adopt such a costly identity trait mostly for private motives rather than because of pressure from the community.
+As such, our results question the rhetoric often used to justify policies restricting the wearing of religious symbols in France.
+Additional results suggest that wearing discreet religious symbols might act as a strategy to mitigate the economic penalty of the veil while allowing women to preserve religious benefits.
     </p>
     </details>
   </li>

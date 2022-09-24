@@ -14,7 +14,7 @@ During the winter 2022 I was a visiting scholar at the Economics department at [
 
 You can find my *resume* [here](assets/CV_AJacquet.pdf) and my *job market paper* [here](assets/JMP_AJacquet.pdf).  
 
-I will be available for interviews at the EA and ASSA meetings.
+I will be available for interviews at the EEA and ASSA meetings.
 
 
 ### Contact info

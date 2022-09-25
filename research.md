@@ -35,7 +35,7 @@ Finally, I estimate this model, finding that a systematic difference in preferen
   </li>
 
   <li>
-    <b> Veiling and economic participation of Muslim women in France </b> <br />
+    <b> Veiling and economic integration of Muslim women in France </b> <br />
     (with Sébastien Montpetit)
     <details> <summary> Abstract </summary>
     <p>

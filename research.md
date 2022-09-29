@@ -90,7 +90,7 @@ Additional results suggest that wearing discreet religious symbols might act as 
     Antoine Jacquet, Aurélie Varrel, Audrey Richard-Ferroudji <br />
     "Quand les migrants sont français : la population française de Pondichéry" <br />
     <i>Cahiers des IFRE</i> 3, 2016: pp. 58–67 <br />
-    [<a href="https://halshs.archives-ouvertes.fr/halshs-01431694/document">link to open access article, in French</a>]
+    [<a href="https://halshs.archives-ouvertes.fr/halshs-01431694/document">link to open access article</a>]
   </li>
 </ul>
 

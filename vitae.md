@@ -48,8 +48,7 @@ layout: default
 #### Scholarships, grants, awards
 
 ###### Scholarships
-- 2022–2023: Job Market scholarship, Toulouse School of Economics
-- 2020–2022: Research & teaching scholarship, Université Toulouse Capitole
+- 2020–2023: Research & teaching scholarship, Université Toulouse Capitole
 - 2017–2020: Doctoral scholarship, Institute for Advanced Study in Toulouse
 - 2012–2016: Full scholarship, Ecole Polytechnique
 

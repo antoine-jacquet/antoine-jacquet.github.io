@@ -58,7 +58,8 @@ Additional results suggest that wearing discreet religious symbols might act as 
   <li>
     Sabine Nöbel, Antoine Jacquet, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin <br />
     "Conformity in mate choice, the overlooked social component of animal and human culture" <br />
-    <b><i> Biological Reviews</i></b>, forthcoming, DOI: 10.1111/brv.12899
+    <b><i> Biological Reviews</i></b>, doi: 10.1111/brv.12899 <br />
+    [<a href="https://doi.org/10.1111/brv.12899">link to open access article</a>]
   </li>
 </ul>
 

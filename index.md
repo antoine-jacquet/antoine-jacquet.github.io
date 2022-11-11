@@ -5,7 +5,8 @@ layout: default
 ## About me
 
 I am a PhD candidate in Economics at the [Toulouse School of Economics](https://www.tse-fr.eu). 
-I am an applied microeconomist with interests at the intersection of Political economy and the Economics of culture.
+I am an applied microeconomist with interests at the intersection of Labor & Demographic economics and the Economics of culture.
+
 <!--
 In my [research](.\research.html), I am broadly interested in how culture interacts with economic incentives and outcomes, with the aim to understand how policies differentially affect cultural minorities.
 To study this, I use microeconomic theory and empirical methods, in particular structural econometrics.

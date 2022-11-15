@@ -37,11 +37,12 @@ Finally, I estimate this model, finding that a systematic difference in preferen
   <li>
     <b> Veiling and economic integration of Muslim women in France </b> <br />
     (with Sébastien Montpetit)
+    [<a href="assets/Veiling_JacquetMontpetit.pdf">link</a>]
     <details> <summary> Abstract </summary>
     <p>
 Veiling among Muslim women is a cultural practice which has been at the center of public debates in Western countries for a few decades, but is still poorly understood.
 Using unique confidential survey data over the largest sample of Muslim women in France, we unpack the various motives behind veiling behavior.
-Grounded in economic theory of veiling, our analysis shows that veiling is very costly in terms of economic integration.
+Grounded in an economic theory of veiling, our analysis shows that veiling is very costly in terms of economic integration.
 We find that women reporting to always wear a conspicuous religious symbol are significantly less likely to be economically active.
 Our results suggest that women are willing to adopt such a costly identity trait mostly for private motives rather than because of pressure from the community.
 As such, our results question the rhetoric often used to justify policies restricting the wearing of religious symbols in France.

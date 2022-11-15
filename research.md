@@ -25,11 +25,14 @@ layout: default
     [<a href="assets/JMP_AJacquet.pdf">link</a>]
     <details open> <summary> Abstract </summary>
     <p>
-I present a new model of cultural transmission, in which children are simultaneously socialized to several cultural traits through parental time investments as well as their environment.
-Using parents–children data on religious affiliation in France, I then analyse the model in reduced form to examine the patterns of intergenerational religious transmission, finding that mothers contribute more to religious transmission to children than fathers; religious minorities more than majorities; and lower-educated parents more than higher-educated ones.
-To explain this pattern, I embed the cultural transmission model in a collective household problem, in which parents endogenously decide their time investments in their child's culture on one side, and in their formal education on the other side.
-I verify that the model's predictions replicates the stylized facts in the data.
-Finally, I estimate this model, finding that a systematic difference in preferences across religions and genders is the main factor explaining disparities in transmission patterns, as opposed to an argument of comparative advantage in human capital transmission for higher-educated individuals. 
+What economic sacrifices are people willing to make to transmit their culture?
+Using data on religious affiliation in France, I study the intergenerational transmission of religion and how it interacts with children's educational outcomes.
+A reduced-form analysis suggests that mothers contribute to religious transmission more than fathers; religious minorities more than majorities; and lower-educated parents more than higher-educated ones.
+A mechanism that can explain these patterns is that higher-educated parents have a higher opportunity cost of transmitting their religion to their children.
+I investigate this mechanism through a structural model, in which parents endogenously decide their time investments in their child's culture on the one hand, and in their formal education on the other hand.
+The analysis suggests that heterogeneities in transmission patterns are driven primarily by heterogeneities in preferences for religious transmission across genders and religious groups, rather than by differences in parents' education.
+Furthermore, religious minorities pay a higher price for religious transmission in terms of their children's educational outcomes.
+For instance, by measuring this cost in terms of the probability that the child will obtain a college education, Muslim parents pay a cost between 8 and 13 times greater than that for Christians. 
     </p>
     </details>
   </li>

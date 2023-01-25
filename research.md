@@ -83,7 +83,7 @@ Additional results suggest that wearing discreet religious symbols might act as 
 
   <li>
     <b>The evolution of cognitively appealing rituals</b> <br />
-    (with Maxime Derex & Manvir Singh)
+    (with Maxime Derex, Ali Seyhun Saral & Manvir Singh)
   </li>
 </ul>
 

@@ -44,14 +44,6 @@ For instance, by measuring this cost in terms of the probability that the child 
     <i> Media coverage: <a href="https://www.lesechos.fr/idees-debats/editos-analyses/abayas-un-risque-de-segregation-identitaire-1974113">Les Echos</a> </i> 
     <details> <summary> Abstract </summary>
     <p>
-Veiling among Muslim women is a cultural practice which has been at the center of public debates in Western countries for a few decades, but is still poorly understood.
-Using unique confidential survey data over the largest sample of Muslim women in France, we unpack the various motives behind veiling behavior.
-Grounded in an economic theory of veiling, our analysis shows that veiling is very costly in terms of economic integration.
-We find that women reporting to always wear a conspicuous religious symbol are significantly less likely to be economically active.
-Our results suggest that women are willing to adopt such a costly identity trait mostly for private motives rather than because of pressure from the community.
-As such, our results question the rhetoric often used to justify policies restricting the wearing of religious symbols in France.
-Additional results suggest that wearing discreet religious symbols might act as a strategy to mitigate the economic penalty of the veil while allowing women to preserve religious benefits.
-
 The economic implications of policies limiting the wearing of the Islamic veil for Muslim women in Western countries are still poorly understood.
 This paper investigates the relationship between veiling behavior and economic participation using the largest sample of Muslim women in France.
 Firstly, we present new descriptive evidence about Muslim women in France.

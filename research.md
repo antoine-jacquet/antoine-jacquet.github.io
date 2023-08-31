@@ -41,7 +41,7 @@ For instance, by measuring this cost in terms of the probability that the child 
     <b> Veiling and the economic integration of Muslim women in France </b> <br />
     (with Sébastien Montpetit)
     [<a href="assets/Veiling_JacquetMontpetit.pdf">link</a>] <br />
-    <i> Media coverage: <a href="https://www.lesechos.fr/idees-debats/editos-analyses/abayas-un-risque-de-segregation-identitaire-1974113">Les Echos</a> </i> 
+    Media coverage: <i>  <a href="https://www.lesechos.fr/idees-debats/editos-analyses/abayas-un-risque-de-segregation-identitaire-1974113">Les Echos</a> </i> 
     <details> <summary> Abstract </summary>
     <p>
 The economic implications of policies limiting the wearing of the Islamic veil for Muslim women in Western countries are still poorly understood.

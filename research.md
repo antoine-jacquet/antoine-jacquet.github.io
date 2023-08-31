@@ -50,8 +50,21 @@ We find that women reporting to always wear a conspicuous religious symbol are s
 Our results suggest that women are willing to adopt such a costly identity trait mostly for private motives rather than because of pressure from the community.
 As such, our results question the rhetoric often used to justify policies restricting the wearing of religious symbols in France.
 Additional results suggest that wearing discreet religious symbols might act as a strategy to mitigate the economic penalty of the veil while allowing women to preserve religious benefits.
+
+The economic implications of policies limiting the wearing of the Islamic veil for Muslim women in Western countries are still poorly understood.
+This paper investigates the relationship between veiling behavior and economic participation using the largest sample of Muslim women in France.
+Firstly, we present new descriptive evidence about Muslim women in France.
+We demonstrate a significant negative relationship between veiling and economic participation, which contrasts with the existing economic theory of veiling in Muslim-majority countries.
+Secondly, we extend this theory by including elements relevant to the Muslim-minority context, such as potentially-reduced economic opportunities for veiled women.
+In so doing, we are able to rationalize the contrast between the Muslim-majority and Muslim-minority contexts.
+Thirdly, we develop and estimate a discrete-choice model of veiling and labor force participation to disentangle the various motivations behind the joint decision to veil and to be economically active.
+Our findings indicate that veiled women are less economically active not due to religious preferences, but rather because the benefits of economic participation are lower for women who veil compared to those who do not.
+This result echoes previous findings in the literature regarding labor market discrimination against individuals who signal their religious affiliation.
+Additionally, our results emphasize the significance of personal religious motives in the decision to veil, rather than community-based religious pressure.
+This calls into question the rhetoric used to justify policies that restrict the wearing of religious symbols in France.
     </p>
     </details>
+    Media: <a href="https://www.lesechos.fr/idees-debats/editos-analyses/abayas-un-risque-de-segregation-identitaire-1974113">Les Echos</a>
   </li>
 </ul>
 

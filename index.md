@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a post-doctoral researcher in the Economics department at [Sciences Po](https://www.tse-fr.eu), in the ERC team [EQUIPRICE](http://alfredgalichon.com/equiprice/). 
+I am a post-doctoral researcher in the Economics department at [Sciences Po](https://www.sciencespo.fr/department-economics/en.html), in the ERC team [EQUIPRICE](http://alfredgalichon.com/equiprice/). 
 I am an applied microeconomist with interests at the intersection of Labor and Demographic economics and Cultural economics.
 
 <!--

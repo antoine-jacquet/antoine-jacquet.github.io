@@ -46,7 +46,7 @@ For instance, by measuring this cost in terms of the probability that the child 
     <p>
 The economic implications of policies limiting the wearing of the Islamic veil for Muslim women in Western countries are still poorly understood.
 This paper investigates the relationship between veiling behavior and economic participation using the largest sample of Muslim women in France.
-Firstly, we present new descriptive evidence about Muslim women in France.
+Firstly, we present new descriptive evidence about Muslim women in France. 
 We demonstrate a significant negative relationship between veiling and economic participation, which contrasts with the existing economic theory of veiling in Muslim-majority countries.
 Secondly, we extend this theory by including elements relevant to the Muslim-minority context, such as potentially-reduced economic opportunities for veiled women.
 In so doing, we are able to rationalize the contrast between the Muslim-majority and Muslim-minority contexts.
@@ -78,6 +78,20 @@ This calls into question the rhetoric used to justify policies that restrict the
 
 <ul>
   <li>
+    <b> Are marriage markets segmented? </b>
+    <details> <summary> Abstract </summary>
+    <p>
+This paper investigates the role of market segmentation in marital assortativeness, a feature traditionally attributed to variations in the surplus of potential matches within transferable utility models.
+I propose a modification to the Choo–Siow model, allowing individuals to be assigned to submarkets according to their gender and other relevant traits.
+This segmentation introduces a new explanation for spousal assortativeness, which is accompanied by a redistribution of surplus among partners compared to the original model.
+The significance of market segmentation is empirically examined by focusing on the termination of the mandatory military service in France in 1996, a quasi-natural experiment that arguably altered the structure of the marriage market.
+Preliminary event study analysis reveals an observable shift in educational homogamy post-termination, emphasizing the influence of market segmentation.
+Finally, I discuss the possibility of structurally estimating this extended model.
+    </p>
+    </details>
+  </li>
+
+  <li>
     <b> A unifying framework for the stable coexistence of cultural traits </b>
     <details> <summary> Abstract </summary>
     <p>
@@ -86,11 +100,14 @@ This calls into question the rhetoric used to justify policies that restrict the
     </details>
   </li>
 
+<!--
   <li>
     <b>The evolution of cognitively appealing rituals</b> <br />
     (with Maxime Derex, Ali Seyhun Saral & Manvir Singh)
   </li>
+-->
 </ul>
+
 
 
 ### Non-peer reviewed

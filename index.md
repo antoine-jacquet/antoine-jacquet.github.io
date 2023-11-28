@@ -4,7 +4,7 @@ layout: default
 
 ## About me
 
-I am a PhD candidate in Economics at the [Toulouse School of Economics](https://www.tse-fr.eu). 
+I am a post-doctoral researcher in the Economics department at [Sciences Po](https://www.tse-fr.eu), in the ERC team [EQUIPRICE](http://alfredgalichon.com/equiprice/). 
 I am an applied microeconomist with interests at the intersection of Labor and Demographic economics and Cultural economics.
 
 <!--
@@ -12,20 +12,22 @@ In my [research](.\research.html), I am broadly interested in how culture intera
 To study this, I use microeconomic theory and empirical methods, in particular structural econometrics.
 -->
 
-Previously, I completed my undergraduate studies in mathematics and economics at [Ecole Polytechnique](https://www.polytechnique.edu), and obtained a MSc in Quantitative Economic History from the [London School of Economics](https://www.lse.ac.uk).
+I obtained my PhD from the [Toulouse School of Economics](https://www.tse-fr.eu). Previously, I completed my undergraduate studies in mathematics and economics at [Ecole Polytechnique](https://www.polytechnique.edu), and obtained a MSc in Quantitative Economic History from the [London School of Economics](https://www.lse.ac.uk).
 From 2017 to 2020 I was affiliated with the [Institute for Advanced Study in Toulouse](https://www.iast.fr).
+<!--
 During the winter 2022 I was visiting scholar at the Economics department at [Columbia University](https://econ.columbia.edu).
 
 <b>I will be available for interviews at the 2022–2023 EEA and ASSA meetings.</b>  
 <b>You can find my resume [here](assets/CV_AJacquet.pdf) and my job market paper [here](assets/JMP_AJacquet.pdf).</b>  
 <p style="margin-bottom:1cm;"> </p>
+-->
 
 
 ### Contact
 
-Email: antoine.jacquet \[at\] tse-fr.eu
+Email: antoine.jacquet \[at\] sciencespo.fr
 
-Toulouse School of Economics  
-Office T436  
-1, Esplanade de l’Université  
-31 080 Toulouse, France
+Economics department
+Sciences Po  
+28, Rue des Saints-Pères  
+75 007 Paris, France

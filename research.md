@@ -68,7 +68,7 @@ This calls into question the rhetoric used to justify policies that restrict the
     Sabine Nöbel, Antoine Jacquet, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin <br />
     "Conformity in mate choice, the overlooked social component of animal and human culture" <br />
     <b><i>Biological Reviews</i></b>, vol. 98, n. 1 (February 2023): pp. 132–149 <br />
-    [<a href="https://doi.org/10.1111/brv.12899">link to open access article</a>] 
+    [<a href="https://doi.org/10.1111/brv.12899">open access article</a>] 
     [<a href="https://github.com/antoine-jacquet/project-conformity">code</a>]
   </li>
 </ul>
@@ -117,7 +117,7 @@ Finally, I discuss the possibility of structurally estimating this extended mode
     Antoine Jacquet, Aurélie Varrel, Audrey Richard-Ferroudji <br />
     "Quand les migrants sont français : la population française de Pondichéry" <br />
     <i>Cahiers des IFRE</i> 3, 2016: pp. 58–67 <br />
-    [<a href="https://halshs.archives-ouvertes.fr/halshs-01431694/document">link to open access article</a>]
+    [<a href="https://halshs.archives-ouvertes.fr/halshs-01431694/document">open access article</a>]
   </li>
 </ul>
 

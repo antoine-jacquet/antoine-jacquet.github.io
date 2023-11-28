@@ -3,9 +3,9 @@ theme: jekyll-theme-minimal
 # Setup
 title: Antoine Jacquet
 logo: assets/images/id_photo.jpg
-description: PhD candidate in Economics <br> Toulouse School of Economics
+description: Post-doctoral researcher <br> Sciences Po
 url: https://antoine-jacquet.github.io
-email: mailto:antoine.jacquet@tse-fr.eu
+email: mailto:antoine.jacquet@sciencespo.fr
 website: https://www.tse-fr.eu/fr/people/antoine-jacquet
 
 # Optimize Jekyll
@@ -28,5 +28,5 @@ mathjax: true
 author:
   name: Antoine Jacquet
   url: https://github.com/antoine-jacquet/
-  email: antoine.jacquet@tse-fr.eu
+  email: antoine.jacquet@sciencespo.fr
   github: antoine-jacquet

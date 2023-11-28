@@ -82,6 +82,7 @@ layout: default
 #### Teaching & research experience
 
 ###### Teaching assistantship
+- Summer 2023: *Interior-point methods in linear programming* (math+econ+code series)
 - Fall 2020 & 2021: *Microeconomics* (TSE, 3rd year bachelor)
 - Fall 2018 & 2019: *Game theory* (TSE, 1st year master) 
 - Winter 2019 & 2020: *Mathematics* (TSE, 1st year bachelor)  

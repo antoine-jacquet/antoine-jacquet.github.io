@@ -23,7 +23,7 @@ During the winter 2022 I was visiting scholar at the Economics department at [Co
 
 Email: antoine.jacquet \[at\] sciencespo.fr
 
-Economics department
+Economics department  
 Sciences Po  
 28, Rue des Saints-Pères  
 75 007 Paris, France

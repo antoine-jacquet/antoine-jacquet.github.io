@@ -125,9 +125,17 @@ Finally, I discuss the possibility of structurally estimating this extended mode
 
 
 
-### Non-peer reviewed
+### Book chapters
 
 <ul>
+  <li>
+    Alfred Galichon, Antoine Jacquet <br />
+    "Substitutability, equilibrium transport, and matching models" <br />
+    Prepared for the 2022 PIMS-IFDS-NSF summer school on optimal transport, University of Washington, Seattle, edited by Young-Heon Kim, Soumik Pal, and Brendan Pass <br />
+    [<a href="https://arxiv.org/pdf/2405.07628.pdf">link</a>]
+    [<a href="https://arxiv.org/abs/2405.07628">arXiv</a>] <br /> 
+  </li>
+
   <li>
     Antoine Jacquet, Aurélie Varrel, Audrey Richard-Ferroudji <br />
     "Quand les migrants sont français : la population française de Pondichéry" <br />

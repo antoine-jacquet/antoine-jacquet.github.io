@@ -59,7 +59,7 @@ This calls into question the rhetoric used to justify policies that restrict the
     </details>
   </li>
   
-    <li>
+  <li>
     <b> The matching problem with linear transfers is equivalent to a hide-and-seek game </b> <br />
     (with Alfred Galichon)
     [<a href="https://arxiv.org/pdf/2402.12200.pdf">link</a>]

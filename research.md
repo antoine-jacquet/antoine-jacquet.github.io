@@ -21,7 +21,7 @@ layout: default
 <ul>
   <li>
     <b> Culture, human capital, and marital homogamy in France </b> <br />
-    <i>(Job Market Paper)</i> 
+    <!-- <i>(Job Market Paper)</i> -->
     [<a href="assets/JMP_AJacquet.pdf">link</a>]
     <details> <summary> Abstract </summary>
     <p>

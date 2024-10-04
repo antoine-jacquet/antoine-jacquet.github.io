@@ -44,17 +44,13 @@ For instance, by measuring this cost in terms of the probability that the child 
     Media coverage: <i>  <a href="https://www.lesechos.fr/idees-debats/editos-analyses/abayas-un-risque-de-segregation-identitaire-1974113">Les Echos</a> </i> 
     <details> <summary> Abstract </summary>
     <p>
-The economic implications of policies limiting the wearing of the Islamic veil for Muslim women in Western countries are still poorly understood.
-This paper investigates the relationship between veiling behavior and economic participation using the largest sample of Muslim women in France.
-Firstly, we present new descriptive evidence about Muslim women in France. 
-We demonstrate a significant negative relationship between veiling and economic participation, which contrasts with the existing economic theory of veiling in Muslim-majority countries.
-Secondly, we extend this theory by including elements relevant to the Muslim-minority context, such as potentially-reduced economic opportunities for veiled women.
-In so doing, we are able to rationalize the contrast between the Muslim-majority and Muslim-minority contexts.
-Thirdly, we develop and estimate a discrete-choice model of veiling and labor force participation to disentangle the various motivations behind the joint decision to veil and to be economically active.
-Our findings indicate that veiled women are less economically active not due to religious preferences, but rather because the benefits of economic participation are lower for women who veil compared to those who do not.
-This result echoes previous findings in the literature regarding labor market discrimination against individuals who signal their religious affiliation.
-Additionally, our results emphasize the significance of personal religious motives in the decision to veil, rather than community-based religious pressure.
-This calls into question the rhetoric used to justify policies that restrict the wearing of religious symbols in France.
+This paper provides the first empirical evidence on the economic costs of wearing the Islamic veil and on motives for veiling in a secular Western country.
+Using French observational data rather than small-scale interviews, we demonstrate a significant negative correlation between veiling and economic participation, even conditional on the respondent's religious environment.
+This newly-documented fact is not consistent with the existing economic theory of veiling in Muslim-majority countries, which has focused on the socio-religious signalling effect of veiling.
+We then show that a model which also accounts for reduced economic opportunities for veiled women is consistent with our findings in the Muslim-minority context.
+Using a structural interpretation of the model, we then disentangle the various motivations behind the joint decision to veil and to be economically active.
+Our findings indicate that veiled women are less economically active not due to religious preferences, but rather because veiling is costly on the labor market.
+Additionally, our results emphasize the significance of personal religious motives in the decision to veil, rather than signalling piety to others.
     </p>
     </details>
   </li>

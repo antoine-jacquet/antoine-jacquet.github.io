@@ -42,8 +42,8 @@ For instance, by measuring this cost in terms of the probability that the child 
     (with Sébastien Montpetit)
     [<a href="assets/Veiling_JacquetMontpetit.pdf">link</a>] <br />
     Media coverage:
-        <i>  <a href="https://www.lesechos.fr/idees-debats/editos-analyses/abayas-un-risque-de-segregation-identitaire-1974113">Les Echos</a> </i>,
-        <i>  <a href="https://www.lemonde.fr/idees/article/2024/11/01/emmanuelle-auriol-et-paul-seabright-les-economistes-considerent-les-mouvements-religieux-comme-une-forme-de-capital-social_6370477_3232.html">Le Monde</a> </i> 
+        <i><a href="https://www.lesechos.fr/idees-debats/editos-analyses/abayas-un-risque-de-segregation-identitaire-1974113">Les Echos</a></i>,
+        <i><a href="https://www.lemonde.fr/idees/article/2024/11/01/emmanuelle-auriol-et-paul-seabright-les-economistes-considerent-les-mouvements-religieux-comme-une-forme-de-capital-social_6370477_3232.html">Le Monde</a></i> 
     <details> <summary> Abstract </summary>
     <p>
 This paper provides the first empirical evidence on the economic costs of wearing the Islamic veil and on motives for veiling in a secular Western country.

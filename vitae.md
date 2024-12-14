@@ -81,11 +81,13 @@ layout: default
 
 #### Teaching & research experience
 
-###### Teaching assistantship
+###### Teaching
+- Winter 2025: *Computational methods in game theory and applications to matching* (math+econ+code series)
+- Fall 2024: *Game theory* (École Nationale des Ponts et Chaussées, 1st year master, tutorials)
 - Summer 2023: *Interior-point methods in linear programming* (math+econ+code series)
-- Fall 2020 & 2021: *Microeconomics* (TSE, 3rd year bachelor)
-- Fall 2018 & 2019: *Game theory* (TSE, 1st year master) 
-- Winter 2019 & 2020: *Mathematics* (TSE, 1st year bachelor)  
+- Fall 2020 & 2021: *Microeconomics* (TSE, 3rd year bachelor, tutorials)
+- Fall 2018 & 2019: *Game theory* (TSE, 1st year master, tutorials) 
+- Winter 2019 & 2020: *Mathematics* (TSE, 1st year bachelor, tutorials)  
 
 ###### Other research experience
 - 2019: Field researcher, University of New South Wales (Choiseul, Solomon Islands)

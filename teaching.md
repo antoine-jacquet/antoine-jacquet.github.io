@@ -37,7 +37,7 @@ TD7 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/e3617ee08
 TD8 : [ex1](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/e3617ee0862b9505c886cf875c5a3370562e72fd?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD8-ex1.ipynb) 
    \| [ex2](https://mybinder.org/v2/gh/antoine-jacquet/binder-teaching/e3617ee0862b9505c886cf875c5a3370562e72fd?urlpath=lab%2Ftree%2FMicro%C3%A9conomie%205%2Fmicro5-TD8-ex2.ipynb)   
    
-Si Binder ne fonctionne pas, des versions statiques sont disponibles [ici](https://github.com/antoine-jacquet/binder-teaching/tree/main/Microéconomie%205).
+Des versions statiques sont aussi disponibles [ici](https://github.com/antoine-jacquet/binder-teaching/tree/main/Microéconomie%205).
 
 ### Game theory M1
 

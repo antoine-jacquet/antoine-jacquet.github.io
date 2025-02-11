@@ -93,6 +93,44 @@ These results draw a new bridge between non-TU matching problems and the theory 
 
 <ul>
   <li>
+    <b> Welfare consequences of rent-control policies: a matching perspective </b> <br />
+    (with Amine Fahli)
+    <details> <summary> Abstract </summary>
+    <p>
+How do rent control policies affect equilibrium in housing markets and shape investment decisions?
+This paper delves into these questions by proposing a novel structural model to empirically study the influence of rent ceilings on the general equilibrium in housing markets, in which some landlords are able to freely adjust their rents (thus falling under the standard transferable utility assumption), while other landlords cannot (non-transferable utility).
+    </p>
+    </details>
+  </li>
+
+  <li>
+    <b> The NTU logit model </b> <br />
+    (with Alfred Galichon)
+    <details> <summary> Abstract </summary>
+    <p>
+We propose two fast algorithms to compute aggregate equilibrium outcomes in two-sided matching problems with non-transferable utility (NTU) and logit heterogeneity.
+Our first algorithm is an application of Jacobi's method.
+We show that this algorithm converges to the equilibrium, and also that the Jacobi iterates can be written in closed form, allowing for quick computation.
+Our second algorithm, which alternates between Jacobi steps and damped Newton steps, is guaranteed to converge in finite time.
+Specifically, if X and Y are the sets of individual types on each side of the market, then our Jacobi–Newton algorithm converges in |X||Y| steps at most.
+    </p>
+    </details>
+  </li>
+
+  <li>
+    <b> Matching with very costly transfers </b> <br />
+    (with Georg Nöldeke)
+    <details> <summary> Abstract </summary>
+    <p>
+In this paper, we view matching with nontransferable utility (NTU) as the limit of matching with imperfectly transferable utility (ITU) when utility is very costly to transfer.
+In the corresponding limit model, utility is not only nontransferable but also disposable.
+We show that stable outcomes in ITU models with very costly utility transfers are close to stable outcomes in this NTU model and, under a familiar regularity condition, that every stable outcome in the NTU model with disposable utility in which identical individuals are treated equally is close to a stable outcome in some ITU model with very costly utility transfers.
+We conclude that assuming utility to be nontransferable and disposable is an appropriate simplification to model situations in which transferring utility is difficult but not impossible.
+    </p>
+    </details>
+  </li>
+
+  <li>
     <b> Are marriage markets segmented? </b>
     <details> <summary> Abstract </summary>
     <p>
@@ -107,6 +145,22 @@ Finally, I discuss the possibility of structurally estimating this extended mode
   </li>
 
   <li>
+    <b> On scale effects in matching markets </b> <br />
+    (with Alfred Galichon)
+    <details> <summary> Abstract </summary>
+    <p>
+This note investigates population scale effects in several bipartite matching models commonly used in empirical applications.
+Such models are typically characterized by matching functions, which predict the number of matches of any pair of types based on the number of singles of each of these types.
+In models for which the matching functions are homogeneous of degree 1, the equilibrium matching distribution scales linearly with the population size.
+In the case of models with matching functions which are not homogeneous of degree 1, however, this simple scaling property does not hold in general.
+We thus analyze the asymptotic behavior of the equilibrium matching distribution for such models as the population size grows to infinity.
+    </p>
+    </details>
+  </li>
+
+
+<!--
+  <li>
     <b> A unifying framework for the stable coexistence of cultural traits </b>
     <details> <summary> Abstract </summary>
     <p>
@@ -115,7 +169,6 @@ Finally, I discuss the possibility of structurally estimating this extended mode
     </details>
   </li>
 
-<!--
   <li>
     <b>The evolution of cognitively appealing rituals</b> <br />
     (with Maxime Derex, Ali Seyhun Saral & Manvir Singh)

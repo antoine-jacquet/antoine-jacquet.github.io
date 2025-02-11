@@ -4,8 +4,15 @@ layout: default
 
 ## About me
 
-I am a post-doctoral researcher in the Economics department at [Sciences Po](https://www.sciencespo.fr/department-economics/en.html), in the ERC team [EQUIPRICE](http://alfredgalichon.com/equiprice/). 
+I am a post-doctoral researcher in the Economics department at [Sciences Po](https://www.sciencespo.fr/department-economics/en.html), part of the ERC team [EQUIPRICE](http://alfredgalichon.com/equiprice/). 
+My research spans both theoretical and applied aspects of matching models.
+On the theoretical side, I leverage tools from microeconomics, game theory, structural econometrics, and computational methods to investigate properties of existing models and propose new frameworks.
+On the applied side, I examine how matching shapes outcomes in several real-life matching markets, including housing, marriage, or labor markets.
+
+<!--
 I am an applied microeconomist with interests at the intersection of Labor and Demographic economics and Cultural economics.
+-->
+
 
 <!--
 In my [research](.\research.html), I am broadly interested in how culture interacts with economic incentives and outcomes, with the aim to understand how policies differentially affect cultural minorities.

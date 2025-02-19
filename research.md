@@ -61,7 +61,7 @@ Additionally, our results emphasize the significance of personal religious motiv
   
   <li>
     <b> The matching problem with linear transfers is equivalent to a hide-and-seek game </b> <br />
-    (with Alfred Galichon)
+    (with Alfred Galichon) <i>Accepted subject to minor revision at Games and Economic Behavior</i>
     [<a href="https://arxiv.org/pdf/2402.12200.pdf">link</a>]
     [<a href="https://arxiv.org/abs/2402.12200">arXiv</a>] <br /> 
     <details> <summary> Abstract </summary>
@@ -189,12 +189,15 @@ We thus analyze the asymptotic behavior of the equilibrium matching distribution
     [<a href="https://arxiv.org/abs/2405.07628">arXiv</a>] <br /> 
   </li>
 
+<!--
   <li>
     Antoine Jacquet, Aurélie Varrel, Audrey Richard-Ferroudji <br />
     "Quand les migrants sont français : la population française de Pondichéry" <br />
     <i>Cahiers des IFRE</i> 3, 2016: pp. 58–67 <br />
     [<a href="https://halshs.archives-ouvertes.fr/halshs-01431694/document">open access article</a>]
   </li>
+-->
+
 </ul>
 
 

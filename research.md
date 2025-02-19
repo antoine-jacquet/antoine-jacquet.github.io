@@ -18,6 +18,8 @@ layout: default
 
 ### Working papers
 
+<ul>
+  <li>
     <b> Culture, human capital, and marital homogamy in France </b> <br />
     <!-- <i>(Job Market Paper)</i> -->
     [<a href="assets/JMP_AJacquet.pdf">link</a>]
@@ -33,7 +35,9 @@ Furthermore, religious minorities pay a higher price for religious transmission 
 For instance, by measuring this cost in terms of the probability that the child will obtain a college education, Muslim parents pay a cost between 8 and 13 times greater than that for Christians. 
     </p>
     </details>
+  </li>
 
+  <li>
     <b> Veiling and the economic integration of Muslim women in France </b> <br />
     (with Sébastien Montpetit)
     [<a href="assets/Veiling_JacquetMontpetit.pdf">link</a>] 
@@ -53,7 +57,9 @@ Our findings indicate that veiled women are less economically active not due to 
 Additionally, our results emphasize the significance of personal religious motives in the decision to veil, rather than signalling piety to others.
     </p>
     </details>
-
+  </li>
+  
+  <li>
     <b> The matching problem with linear transfers is equivalent to a hide-and-seek game </b> <br />
     (with Alfred Galichon)
     [<a href="https://arxiv.org/pdf/2402.12200.pdf">link</a>]
@@ -67,6 +73,8 @@ The underlying linear programming structure of TU matching problems, however, is
 These results draw a new bridge between non-TU matching problems and the theory of bimatrix games, with consequences notably regarding the computation of stable outcomes.
     </p>
     </details>
+  </li>
+</ul>
 
 
 ### Publications

@@ -64,7 +64,7 @@ Additionally, our results emphasize the significance of personal religious motiv
     (with Alfred Galichon)
     [<a href="https://arxiv.org/pdf/2402.12200.pdf">link</a>]
     [<a href="https://arxiv.org/abs/2402.12200">arXiv</a>] <br /> 
- <i>Accepted subject to minor revision at Games and Economic Behavior</i> <br /> 
+    <i>Accepted subject to minor revision at Games and Economic Behavior</i> <br /> 
     <details> <summary> Abstract </summary>
     <p>
 Matching problems with linearly transferable utility (LTU) generalize the well-studied transferable utility (TU) case by relaxing the assumption that utility is transferred one-for-one within matched pairs.

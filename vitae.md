@@ -82,7 +82,7 @@ layout: default
 #### Teaching & research experience
 
 ###### Teaching
-- Winter 2025: *Computational methods in game theory and applications to matching* (math+econ+code series)
+- Winter 2025: *Computational methods in game theory and applications to matching* (Sciences Po and math+econ+code series)
 - Fall 2024: *Game theory* (École Nationale des Ponts et Chaussées, 1st year master, tutorials)
 - Summer 2023: *Interior-point methods in linear programming* (math+econ+code series)
 - Fall 2020 & 2021: *Microeconomics* (TSE, 3rd year bachelor, tutorials)

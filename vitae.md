@@ -46,10 +46,12 @@ layout: default
 - 2015: Engineer, Ecole Polytechnique
 - 2012: Preparatory classes in Mathematics and Physics
 
+
 #### Research visits
 
-- 2023: Visiting academic (June), Oxford University
-- 2022: Visiting scholar (January–July), Columbia University
+- 2025: New York University (February)
+- 2023: Oxford University (June)
+- 2022: Columbia University (January–July)
 
 
 #### Scholarships, grants, awards
@@ -70,6 +72,8 @@ layout: default
 
 #### Conferences, seminars, workshops
 
+- 2025: NYU Econometrics seminar; Columbia Interdisciplinary Market Design seminar
+- 2024: Cargese workshop on Optimal Transport and applications; Sciences Po general seminar
 - 2023: ADRES (Paris Dauphine); IAST/SciencesPo/Oxford Political economy workshop (Sciences Po Paris); IAAE conference (Oslo)
 - 2022: Math+econ+code workshop on optimal transport and economic applications; ASREC (Chapman); Spring Meeting of Young Economists (declined); IRES workshop (Chapman); CIREQ (Montréal); TSE Applied Micro workshop; ASREC (London)
 - 2021: RTP Evolutionary Human Sciences (online); TSE PhD workshop; Math+econ+code workshop on equilibrium transport and matching models; CEPR Winter Symposium (declined)

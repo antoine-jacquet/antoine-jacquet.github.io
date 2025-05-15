@@ -58,28 +58,21 @@ Additionally, our results emphasize the significance of personal religious motiv
     </p>
     </details>
   </li>
-  
-  <li>
-    <b> The matching problem with linear transfers is equivalent to a hide-and-seek game </b> <br />
-    (with Alfred Galichon)
-    [<a href="https://arxiv.org/pdf/2402.12200.pdf">link</a>]
-    [<a href="https://arxiv.org/abs/2402.12200">arXiv</a>] <br /> 
-    Accepted subject to minor revision at <i>Games and Economic Behavior</i> <br /> 
-    <details> <summary> Abstract </summary>
-    <p>
-Matching problems with linearly transferable utility (LTU) generalize the well-studied transferable utility (TU) case by relaxing the assumption that utility is transferred one-for-one within matched pairs.
-We show that LTU matching problems can be reframed as nonzero-sum games between two players, thus generalizing a result from von Neumann.
-The underlying linear programming structure of TU matching problems, however, is lost when moving to LTU.
-These results draw a new bridge between non-TU matching problems and the theory of bimatrix games, with consequences notably regarding the computation of stable outcomes.
-    </p>
-    </details>
-  </li>
+ 
 </ul>
 
 
 ### Publications
 
 <ul>
+  <li>
+    Alfred Galichon & Antoine Jacquet <br />
+    "The matching problem with linear transfers is equivalent to a hide-and-seek game" <br />
+    <b><i>Games and Economic Behavior</i></b>, In Press <br />
+    [<a href="https://doi.org/10.1016/j.geb.2025.05.004">open access article</a>] 
+    [<a href="https://arxiv.org/abs/2402.12200">arXiv</a>]
+  </li>
+
   <li>
     Sabine Nöbel, Antoine Jacquet, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin <br />
     "Conformity in mate choice, the overlooked social component of animal and human culture" <br />

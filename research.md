@@ -73,7 +73,7 @@ Additionally, our results emphasize the significance of personal religious motiv
   <li>
     Alfred Galichon & Antoine Jacquet <br />
     "The matching problem with linear transfers is equivalent to a hide-and-seek game" <br />
-    <b><i>Games and Economic Behavior</i></b>, vol. 152 (July 2025): pp:333–344 <br />
+    <b><i>Games and Economic Behavior</i></b>, vol. 152 (July 2025): pp. 333–344 <br />
     [<a href="https://doi.org/10.1016/j.geb.2025.05.004">open access article</a>] 
     [<a href="https://arxiv.org/abs/2402.12200">arXiv</a>]
   </li>

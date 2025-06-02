@@ -3,10 +3,10 @@ theme: jekyll-theme-minimal
 # Setup
 title: Antoine Jacquet
 logo: assets/images/id_photo.jpg
-description: Post-doctoral researcher <br> Sciences Po
+description: Post-doctoral researcher <br> Sciences Po, Paris
 url: https://antoine-jacquet.github.io
 email: mailto:antoine.jacquet@sciencespo.fr
-website: https://www.tse-fr.eu/fr/people/antoine-jacquet
+#website: https://
 
 # Optimize Jekyll
 exclude:

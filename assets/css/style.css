@@ -55,8 +55,9 @@ a:hover small {
 }
 
 .wrapper {
-  width:860px;
-  margin:0 auto;
+  max-width:1200px;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 
 blockquote {
@@ -170,7 +171,7 @@ header ul a strong {
 }
 
 section {
-  width:500px;
+  width:calc(100% - 300px); /* 280px header + 20px spacing */
   float:right;
   padding-bottom:50px;
 }

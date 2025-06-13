@@ -49,7 +49,7 @@ layout: default
 
 #### Research visits
 
-- 2025: New York University (February)
+- 2025: New York University (February), Oxford University (May)
 - 2023: Oxford University (June)
 - 2022: Columbia University (January–July)
 
@@ -86,6 +86,7 @@ layout: default
 #### Teaching & research experience
 
 ###### Teaching
+- Spring 2025: *Discrete choice models and demand estimation* (Sciences Po and math+econ+code series)
 - Winter 2025: *Computational methods in game theory and applications to matching* (Sciences Po and math+econ+code series)
 - Fall 2024: *Game theory* (École Nationale des Ponts et Chaussées, 1st year master, tutorials)
 - Summer 2023: *Interior-point methods in linear programming* (math+econ+code series)

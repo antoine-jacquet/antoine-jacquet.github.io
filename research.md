@@ -39,7 +39,7 @@ For instance, by measuring this cost in terms of the probability that the child 
 
   <li>
     <b> Veiling and the economic integration of Muslim women in France </b> <br />
-    (with Sébastien Montpetit)
+    (with Sébastien Montpetit) <i>R&R at Canadian Journal of Economics</i>
     [<a href="assets/Veiling_JacquetMontpetit.pdf">link</a>] 
     [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5036386">ssrn</a>] <br />
     Media coverage:

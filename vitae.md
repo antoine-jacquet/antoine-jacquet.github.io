@@ -72,7 +72,7 @@ layout: default
 
 #### Conferences, seminars, workshops
 
-- 2025: NYU Econometrics seminar; Columbia Interdisciplinary Market Design seminar
+- 2025: NYU Econometrics seminar; Columbia Interdisciplinary Market Design seminar; NYU Competitive Equilibrium with Substitutes workshop; Swiss Theory day
 - 2024: Cargese workshop on Optimal Transport and applications; Sciences Po general seminar
 - 2023: ADRES (Paris Dauphine); IAST/SciencesPo/Oxford Political economy workshop (Sciences Po Paris); IAAE conference (Oslo)
 - 2022: Math+econ+code workshop on optimal transport and economic applications; ASREC (Chapman); Spring Meeting of Young Economists (declined); IRES workshop (Chapman); CIREQ (Montréal); TSE Applied Micro workshop; ASREC (London)
@@ -86,9 +86,10 @@ layout: default
 #### Teaching & research experience
 
 ###### Teaching
+- Fall 2025: *Analytical Statistics* (NYU Paris)
 - Spring 2025: *Discrete choice models and demand estimation* (Sciences Po and math+econ+code series)
 - Winter 2025: *Computational methods in game theory and applications to matching* (Sciences Po and math+econ+code series)
-- Fall 2024: *Game theory* (École Nationale des Ponts et Chaussées, 1st year master, tutorials)
+- Fall 2024 & 2025: *Game theory* (École Nationale des Ponts et Chaussées, 1st year master, tutorials)
 - Summer 2023: *Interior-point methods in linear programming* (math+econ+code series)
 - Fall 2020 & 2021: *Microeconomics* (TSE, 3rd year bachelor, tutorials)
 - Fall 2018 & 2019: *Game theory* (TSE, 1st year master, tutorials) 

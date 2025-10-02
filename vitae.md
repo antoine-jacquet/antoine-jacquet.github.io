@@ -72,7 +72,7 @@ layout: default
 
 #### Conferences, seminars, workshops
 
-- 2025: NYU Econometrics seminar; Columbia Interdisciplinary Market Design seminar; NYU Competitive Equilibrium with Substitutes workshop; Swiss Theory day
+- 2025: NYU Econometrics seminar; Columbia Interdisciplinary Market Design seminar; NYU Competitive Equilibrium with Substitutes workshop; Swiss Theory day (Basel)
 - 2024: Cargese workshop on Optimal Transport and applications; Sciences Po general seminar
 - 2023: ADRES (Paris Dauphine); IAST/SciencesPo/Oxford Political economy workshop (Sciences Po Paris); IAAE conference (Oslo)
 - 2022: Math+econ+code workshop on optimal transport and economic applications; ASREC (Chapman); Spring Meeting of Young Economists (declined); IRES workshop (Chapman); CIREQ (Montréal); TSE Applied Micro workshop; ASREC (London)

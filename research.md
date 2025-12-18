@@ -20,6 +20,20 @@ layout: default
 
 <ul>
   <li>
+    <b> Transferable Utility Matching Beyond Logit: Computation and Estimation with General Heterogeneity </b> <br />
+    (with Alfred Galichon and Georgy Salakhutdinov)
+    [<a href="https://arxiv.org/abs/2511.23116">arXiv</a>]
+    <details> <summary> Abstract </summary>
+    <p>
+We present a general framework for matching with transferable utility (TU) that accommodates arbitrary heterogeneity without relying on the logit structure.
+The optimal assignment problem is characterized by tractable linear programming formulation, allowing flexible error distributions and correlation patterns.
+We introduce an iterative algorithm that solves large-scale assignment problems with guaranteed convergence and an intuitive economic interpretation, and we show how the same structure supports a simulated moment-matching estimator of the systematic surplus.
+Experiments using simulated data demonstrate the algorithm’s scalability and the estimator’s consistency under correct specification, as well as systematic bias arising from logit misspecification.
+    </p>
+    </details>
+  </li>
+
+  <li>
     <b> Culture, human capital, and marital homogamy in France </b> <br />
     <!-- <i>(Job Market Paper)</i> -->
     [<a href="assets/JMP_AJacquet.pdf">link</a>]
@@ -93,12 +107,14 @@ Additionally, our results emphasize the significance of personal religious motiv
 
 <ul>
   <li>
-    <b> Welfare consequences of rent-control policies: a matching perspective </b> <br />
-    (with Amine Fahli)
+    <b> Matching with very costly transfers </b> <br />
+    (with Georg Nöldeke)
     <details> <summary> Abstract </summary>
     <p>
-How do rent control policies affect equilibrium in housing markets and shape investment decisions?
-This paper delves into these questions by proposing a novel structural model to empirically study the influence of rent ceilings on the general equilibrium in housing markets, in which some landlords are able to freely adjust their rents (thus falling under the standard transferable utility assumption), while other landlords cannot (non-transferable utility).
+In this paper, we view matching with nontransferable utility (NTU) as the limit of matching with imperfectly transferable utility (ITU) when utility is very costly to transfer.
+In the corresponding limit model, utility is not only nontransferable but also disposable.
+We show that stable outcomes in ITU models with very costly utility transfers are close to stable outcomes in this NTU model and, under a familiar regularity condition, that every stable outcome in the NTU model with disposable utility in which identical individuals are treated equally is close to a stable outcome in some ITU model with very costly utility transfers.
+We conclude that assuming utility to be nontransferable and disposable is an appropriate simplification to model situations in which transferring utility is difficult but not impossible.
     </p>
     </details>
   </li>
@@ -118,14 +134,12 @@ Specifically, if X and Y are the sets of individual types on each side of the ma
   </li>
 
   <li>
-    <b> Matching with very costly transfers </b> <br />
-    (with Georg Nöldeke)
+    <b> Welfare consequences of rent-control policies: a matching perspective </b> <br />
+    (with Amine Fahli)
     <details> <summary> Abstract </summary>
     <p>
-In this paper, we view matching with nontransferable utility (NTU) as the limit of matching with imperfectly transferable utility (ITU) when utility is very costly to transfer.
-In the corresponding limit model, utility is not only nontransferable but also disposable.
-We show that stable outcomes in ITU models with very costly utility transfers are close to stable outcomes in this NTU model and, under a familiar regularity condition, that every stable outcome in the NTU model with disposable utility in which identical individuals are treated equally is close to a stable outcome in some ITU model with very costly utility transfers.
-We conclude that assuming utility to be nontransferable and disposable is an appropriate simplification to model situations in which transferring utility is difficult but not impossible.
+How do rent control policies affect equilibrium in housing markets and shape investment decisions?
+This paper delves into these questions by proposing a novel structural model to empirically study the influence of rent ceilings on the general equilibrium in housing markets, in which some landlords are able to freely adjust their rents (thus falling under the standard transferable utility assumption), while other landlords cannot (non-transferable utility).
     </p>
     </details>
   </li>

@@ -27,6 +27,9 @@ During the winter 2022 I was visiting scholar at the Economics department at [Co
 -->
 
 
+<i>Upcoming presentations:</i> Sciences Po Labor Market Search and Matching workshop (January), Rice University (April), Southern Methodist University (May)
+
+
 ### Contact
 
 Email: antoine.jacquet \[at\] sciencespo.fr

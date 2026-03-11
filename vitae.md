@@ -72,6 +72,7 @@ layout: default
 
 #### Conferences, seminars, workshops
 
+- 2026: Sciences Po Labor Market Search and Matching workshop; Basel Econ Lunch seminar; Washington University in St. Louis; Rice University; Southern Methodist University
 - 2025: NYU Econometrics seminar; Columbia Interdisciplinary Market Design seminar; NYU Competitive Equilibrium with Substitutes workshop; Swiss Theory day (Basel)
 - 2024: Cargese workshop on Optimal Transport and applications; Sciences Po general seminar
 - 2023: ADRES (Paris Dauphine); IAST/SciencesPo/Oxford Political economy workshop (Sciences Po Paris); IAAE conference (Oslo)

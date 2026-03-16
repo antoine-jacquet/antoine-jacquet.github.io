@@ -87,6 +87,7 @@ layout: default
 #### Teaching & research experience
 
 ###### Teaching
+- Spring 2026: *Large-scale matching models estimation* (Collegio Carlo Alberto and math+econ+code series)
 - Fall 2025: *Analytical Statistics* (NYU Paris)
 - Spring 2025: *Discrete choice models and demand estimation* (Sciences Po and math+econ+code series)
 - Winter 2025: *Computational methods in game theory and applications to matching* (Sciences Po and math+econ+code series)

@@ -89,7 +89,7 @@ Additionally, our results emphasize the significance of personal religious motiv
   <li>
     Alfred Galichon, Yu-Wei Hsieh & Antoine Jacquet <br />
     "Aggregate stable matching with money burning" <br />
-    <b><i>Accepted at Journal of Mechanism and Institution Design</i></b>, Special Issue on Market Design in Memory of YingHua He <br />
+    To appear in <b><i>Journal of Mechanism and Institution Design</i></b>, Special Issue on Market Design in Memory of YingHua He <br />
   </li>
 
   <li>

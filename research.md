@@ -86,6 +86,12 @@ Additionally, our results emphasize the significance of personal religious motiv
 </style>
 <ul>
   <li>
+    Alfred Galichon, Yu-Wei Hsieh & Antoine Jacquet <br />
+    "Aggregate stable matching with money burning" <br />
+    <b><i>Accepted at Journal of Mechanism and Institution Design</i></b>, Special Issue on Market Design in Memory of YingHua He <br />
+  </li>
+
+  <li>
     Alfred Galichon & Antoine Jacquet <br />
     "The matching problem with linear transfers is equivalent to a hide-and-seek game" <br />
     <b><i>Games and Economic Behavior</i></b>, vol. 152 (July 2025): pp. 333–344 <br />
@@ -182,12 +188,18 @@ We thus analyze the asymptotic behavior of the equilibrium matching distribution
     </p>
     </details>
   </li>
+-->
 
   <li>
-    <b>The evolution of cognitively appealing rituals</b> <br />
-    (with Maxime Derex, Ali Seyhun Saral & Manvir Singh)
+    <b> The emergence and cultural persistence of ineffective solutions </b> <br />
+    (with Ali Seyhun Saral, Manvir Singh, Haneul Jang & Maxime Derex) <br />
+    <i>R&R at Nature Communications</i> <br />
+    <details> <summary> Abstract </summary>
+    <p>
+Through cumulative cultural evolution, populations discover novel solutions that allow them to solve complex problems. However, populations also reliably develop and sustain practices that are costly yet appear to have no effect on their stated outcome, such as bloodletting, divination, and malicious sorcery. Here, we show that ineffective, costly solutions can develop and be maintained because of their subjective appeal. In a pre-registered transmission-chain experiment, participants were tasked with developing a solution to a problem over several trials, after which they passed instructions onto the subsequent generation. The visual appearance of the experimental task was manipulated to vary the extent to which cognitive biases could interfere with participants’ expectations of efficacy, enabling a direct test of the effect of cognitive appeal on cumulative cultural evolution. Participants in the low-appeal treatment (n = 240) progressively developed more efficient solutions across generations. Participants in the high-appeal treatment (n = 240), in contrast, produced costlier solutions with no increase in efficiency over the course of the experiment. These results suggest that, even under conditions favorable to cumulative cultural evolution, a form of cognitive appeal alone can alone prevent the process and promote the emergence and cultural persistence of ineffective solutions.
+    </p>
+    </details>
   </li>
--->
 </ul>
 
 

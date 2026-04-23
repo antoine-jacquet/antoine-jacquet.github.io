@@ -27,7 +27,7 @@ During the winter 2022 I was visiting scholar at the Economics department at [Co
 -->
 
 
-<i>Upcoming presentations:</i> Basel Econ lunch seminar (April), Washington University in St. Louis (April), Rice University (April), Southern Methodist University (May)
+<i>Upcoming presentations:</i> Basel Econ lunch seminar (April); Washington University in St. Louis (April); Rice University (April); Southern Methodist University (May); Optimization-conscious econometrics conference, Rice University Global Paris Center (May); Asia meeting of the Econometric Society, Hanoi (July); EcoSta conference, Kyoto (August)
 
 
 ### Contact

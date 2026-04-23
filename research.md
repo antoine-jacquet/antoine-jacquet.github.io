@@ -89,38 +89,6 @@ Through cumulative cultural evolution, populations discover novel solutions that
 </ul>
 
 
-### Publications
-
-<style>
-  li {
-    margin-bottom: 1em;
-  }
-</style>
-<ul>
-  <li>
-    Alfred Galichon, Yu-Wei Hsieh & Antoine Jacquet <br />
-    "Aggregate stable matching with money burning" <br />
-    To appear in <b><i>Journal of Mechanism and Institution Design</i></b>, Special Issue on Market Design in Memory of YingHua He <br />
-  </li>
-
-  <li>
-    Alfred Galichon & Antoine Jacquet <br />
-    "The matching problem with linear transfers is equivalent to a hide-and-seek game" <br />
-    <b><i>Games and Economic Behavior</i></b>, vol. 152 (July 2025): pp. 333–344 <br />
-    [<a href="https://doi.org/10.1016/j.geb.2025.05.004">open access article</a>] 
-    [<a href="https://arxiv.org/abs/2402.12200">arXiv</a>]
-  </li>
-
-  <li>
-    Sabine Nöbel, Antoine Jacquet, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin <br />
-    "Conformity in mate choice, the overlooked social component of animal and human culture" <br />
-    <b><i>Biological Reviews</i></b>, vol. 98, n. 1 (February 2023): pp. 132–149 <br />
-    [<a href="https://doi.org/10.1111/brv.12899">open access article</a>] 
-    [<a href="https://github.com/antoine-jacquet/project-conformity">code</a>]
-  </li>
-</ul>
-
-
 ### Work in progress
 
 <ul>
@@ -204,6 +172,37 @@ We thus analyze the asymptotic behavior of the equilibrium matching distribution
 
 </ul>
 
+
+### Publications
+
+<style>
+  li {
+    margin-bottom: 1em;
+  }
+</style>
+<ul>
+  <li>
+    Alfred Galichon, Yu-Wei Hsieh & Antoine Jacquet <br />
+    "Aggregate stable matching with money burning" <br />
+    To appear in <b><i>Journal of Mechanism and Institution Design</i></b>, Special Issue on Market Design in Memory of YingHua He <br />
+  </li>
+
+  <li>
+    Alfred Galichon & Antoine Jacquet <br />
+    "The matching problem with linear transfers is equivalent to a hide-and-seek game" <br />
+    <b><i>Games and Economic Behavior</i></b>, vol. 152 (July 2025): pp. 333–344 <br />
+    [<a href="https://doi.org/10.1016/j.geb.2025.05.004">open access article</a>] 
+    [<a href="https://arxiv.org/abs/2402.12200">arXiv</a>]
+  </li>
+
+  <li>
+    Sabine Nöbel, Antoine Jacquet, Guillaume Isabel, Arnaud Pocheville, Paul Seabright & Etienne Danchin <br />
+    "Conformity in mate choice, the overlooked social component of animal and human culture" <br />
+    <b><i>Biological Reviews</i></b>, vol. 98, n. 1 (February 2023): pp. 132–149 <br />
+    [<a href="https://doi.org/10.1111/brv.12899">open access article</a>] 
+    [<a href="https://github.com/antoine-jacquet/project-conformity">code</a>]
+  </li>
+</ul>
 
 
 ### Book chapters

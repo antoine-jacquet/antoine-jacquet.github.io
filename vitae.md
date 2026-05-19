@@ -72,7 +72,7 @@ layout: default
 
 #### Conferences, seminars, workshops
 
-- 2026: Sciences Po Labor Market Search and Matching workshop; Basel Econ Lunch seminar; Washington University in St. Louis; Rice University; Southern Methodist University
+- 2026: Sciences Po Labor Market Search and Matching workshop; Basel Econ Lunch seminar; Washington University in St. Louis; Rice University; Southern Methodist University; Vanderbilt University
 - 2025: NYU Econometrics seminar; Columbia Interdisciplinary Market Design seminar; NYU Competitive Equilibrium with Substitutes workshop; Swiss Theory day (Basel)
 - 2024: Cargese workshop on Optimal Transport and applications; Sciences Po general seminar
 - 2023: ADRES (Paris Dauphine); IAST/SciencesPo/Oxford Political economy workshop (Sciences Po Paris); IAAE conference (Oslo)
@@ -87,7 +87,8 @@ layout: default
 #### Teaching & research experience
 
 ###### Teaching
-- Spring 2026: *Large-scale matching models estimation* (Collegio Carlo Alberto and math+econ+code series)
+- Spring 2026: *Discrete choice models and economic applications* (Sciences Po and math+econ+code series)
+- Winter 2026: *Large-scale matching models estimation* (Collegio Carlo Alberto and math+econ+code series)
 - Fall 2025: *Analytical Statistics* (NYU Paris)
 - Spring 2025: *Discrete choice models and demand estimation* (Sciences Po and math+econ+code series)
 - Winter 2025: *Computational methods in game theory and applications to matching* (Sciences Po and math+econ+code series)

@@ -36,7 +36,8 @@ layout: default
 
 #### Current position
 
-- 2023– : Post-doctoral researcher, Sciences Po
+- 2026–     : Post-doctoral researcher, University of Basel
+- 2023–2026 : Post-doctoral researcher, Sciences Po
 
 
 #### Education

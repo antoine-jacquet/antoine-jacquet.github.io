@@ -3,9 +3,9 @@ theme: jekyll-theme-minimal
 # Setup
 title: Antoine Jacquet
 logo: assets/images/id_photo.jpg
-description: Post-doctoral researcher <br> Sciences Po, Paris
+description: Post-doctoral researcher <br> University of Basel
 url: https://antoine-jacquet.github.io
-email: mailto:antoine.jacquet@sciencespo.fr
+email: mailto:antoine.jacquet@unibas.ch
 #website: https://
 
 # Optimize Jekyll
@@ -28,5 +28,5 @@ mathjax: true
 author:
   name: Antoine Jacquet
   url: https://github.com/antoine-jacquet/
-  email: antoine.jacquet@sciencespo.fr
+  email: antoine.jacquet@unibas.ch
   github: antoine-jacquet

@@ -51,41 +51,6 @@ For instance, by measuring this cost in terms of the probability that the child 
     </details>
   </li>
 
-  <li>
-    <b> Veiling and the economic integration of Muslim women in France </b> <br />
-    (with Sébastien Montpetit)
-    [<a href="assets/Veiling_JacquetMontpetit.pdf">link</a>] 
-    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5036386">ssrn</a>] <br />
-    <I>Conditionally Accepted at Canadian Journal of Economics</i> <br />
-    Media coverage:
-        <i><a href="https://www.lesechos.fr/idees-debats/editos-analyses/abayas-un-risque-de-segregation-identitaire-1974113">Les Echos (Aug 2023)</a></i>,
-        <i><a href="https://www.lemonde.fr/idees/article/2024/11/01/emmanuelle-auriol-et-paul-seabright-les-economistes-considerent-les-mouvements-religieux-comme-une-forme-de-capital-social_6370477_3232.html">Le Monde (Nov 2024)</a></i>,
-        <i><a href="https://www.journeeseconomie.org/conference/2024/laicite-aide-ou-frein-lintegration-16747">Jéco 2024</a></i>,
-        <i><a href="https://www.lemonde.fr/idees/article/2026/01/21/interdire-le-voile-a-l-universite-risque-d-exclure-certaines-femmes-de-l-enseignement-superieur_6663549_3232.html">Le Monde (Jan 2026)</a></i>
-    <details> <summary> Abstract </summary>
-    <p>
-This paper provides the first empirical evidence on the economic costs of wearing the Islamic veil and on motives for veiling in a secular Western country.
-Using French observational data rather than small-scale interviews, we demonstrate a significant negative correlation between veiling and economic participation, even conditional on the respondent's religious environment.
-This newly-documented fact is not consistent with the existing economic theory of veiling in Muslim-majority countries, which has focused on the socio-religious signalling effect of veiling.
-We then show that a model which also accounts for reduced economic opportunities for veiled women is consistent with our findings in the Muslim-minority context.
-Using a structural interpretation of the model, we then disentangle the various motivations behind the joint decision to veil and to be economically active.
-Our findings indicate that veiled women are less economically active not due to religious preferences, but rather because veiling is costly on the labor market.
-Additionally, our results emphasize the significance of personal religious motives in the decision to veil, rather than signalling piety to others.
-    </p>
-    </details>
-  </li>
-
-  <li>
-    <b> The emergence and cultural persistence of ineffective solutions </b> <br />
-    (with Ali Seyhun Saral, Manvir Singh, Haneul Jang & Maxime Derex) <br />
-    <I>Accepted at Nature Communications</i> <br />
-    <details> <summary> Abstract </summary>
-    <p>
-Through cumulative cultural evolution, populations discover novel solutions that allow them to solve complex problems. However, populations also reliably develop and sustain practices that are costly yet appear to have no effect on their stated outcome, such as bloodletting, divination, and malicious sorcery. Here, we show that ineffective, costly solutions can develop and be maintained because of their subjective appeal. In a pre-registered transmission-chain experiment, participants were tasked with developing a solution to a problem over several trials, after which they passed instructions onto the subsequent generation. The visual appearance of the experimental task was manipulated to vary the extent to which cognitive biases could interfere with participants’ expectations of efficacy, enabling a direct test of the effect of cognitive appeal on cumulative cultural evolution. Participants in the low-appeal treatment (n = 240) progressively developed more efficient solutions across generations. Participants in the high-appeal treatment (n = 240), in contrast, produced costlier solutions with no increase in efficiency over the course of the experiment. These results suggest that, even under conditions favorable to cumulative cultural evolution, a form of cognitive appeal alone can alone prevent the process and promote the emergence and cultural persistence of ineffective solutions.
-    </p>
-    </details>
-  </li>
-
 </ul>
 
 
@@ -185,6 +150,26 @@ We thus analyze the asymptotic behavior of the equilibrium matching distribution
     Alfred Galichon, Yu-Wei Hsieh & Antoine Jacquet <br />
     "Aggregate stable matching with money burning" <br />
     To appear in <b><i>Journal of Mechanism and Institution Design</i></b>, Special Issue on Market Design in Memory of YingHua He <br />
+  </li>
+
+  <li>
+    Antoine Jacquet & Sébastien Montpetit <br />
+    "Veiling and the economic integration of Muslim women in France" <br />
+    To appear in <b><i>Canadian Journal of Economics</i></b> <br />
+    [<a href="assets/Veiling_JacquetMontpetit.pdf">link</a>]
+    [<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5036386">ssrn</a>] <br />
+    Media coverage:
+        <i><a href="https://www.lesechos.fr/idees-debats/editos-analyses/abayas-un-risque-de-segregation-identitaire-1974113">Les Echos (Aug 2023)</a></i>,
+        <i><a href="https://www.lemonde.fr/idees/article/2024/11/01/emmanuelle-auriol-et-paul-seabright-les-economistes-considerent-les-mouvements-religieux-comme-une-forme-de-capital-social_6370477_3232.html">Le Monde (Nov 2024)</a></i>,
+        <i><a href="https://www.journeeseconomie.org/conference/2024/laicite-aide-ou-frein-lintegration-16747">Jéco 2024</a></i>,
+        <i><a href="https://www.lemonde.fr/idees/article/2026/01/21/interdire-le-voile-a-l-universite-risque-d-exclure-certaines-femmes-de-l-enseignement-superieur_6663549_3232.html">Le Monde (Jan 2026)</a></i>
+  </li>
+
+  <li>
+    Ali Seyhun Saral, Manvir Singh, Antoine Jacquet, Haneul Jang & Maxime Derex <br />
+    "Cognitive appeal promotes the persistence of inefficient solutions and hinders cumulative cultural evolution" <br />
+    <b><i>Nature Communications</i></b>, vol. 17 (2026): article 10752 <br />
+    [<a href="https://doi.org/10.1038/s41467-026-77677-9">open access article</a>]
   </li>
 
   <li>

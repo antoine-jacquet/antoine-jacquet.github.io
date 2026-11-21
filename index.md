@@ -6,9 +6,10 @@ layout: default
 
 I am a postdoctoral researcher in the Faculty of Business and Economics at the University of Basel, part of the [Microeconomic Theory group](https://wwz.unibas.ch/en/microeconomic-theory/).
 
-My research spans both theoretical and applied aspects of matching models.
-On the theoretical side, I leverage tools from microeconomics, game theory, structural econometrics, and computational methods to investigate properties of existing models and propose new frameworks.
-On the applied side, I examine how matching shapes outcomes in several real-world matching markets, including housing, marriage, and labor markets.
+My research focuses on two areas: matching theory and applications, and the dynamics and consequences of culture.
+In my work on matching, I study the properties of matching models and develop methods for their computation and estimation, with applications to marriage, housing, and labor markets.
+My work on culture has examined how beliefs, preferences, and practices emerge, spread, and persist, and how they shape individual behavior and economic outcomes.
+Across these areas, I combine microeconomic theory with empirical methods, particularly structural econometrics.
 
 <!--
 I am an applied microeconomist with interests at the intersection of Labor and Demographic economics and Cultural economics.

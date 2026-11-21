@@ -88,6 +88,7 @@ layout: default
 #### Teaching & research experience
 
 ###### Teaching
+- Fall 2026: *Economics of Matching: Applications* (University of Basel, master)
 - Spring 2026: *Discrete choice models and economic applications* (Sciences Po and math+econ+code series)
 - Winter 2026: *Large-scale matching models estimation* (Collegio Carlo Alberto and math+econ+code series)
 - Fall 2025: *Analytical Statistics* (NYU Paris)

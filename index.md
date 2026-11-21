@@ -35,9 +35,9 @@ During the winter 2022 I was visiting scholar at the Economics department at [Co
 
 ### Contact
 
-Email: antoine.jacquet \[at\] sciencespo.fr
+Email: antoine.jacquet \[at\] unibas.ch
 
-Economics department  
-Sciences Po  
-28, Rue des Saints-Pères  
-75 007 Paris, France
+Faculty of Business and Economics  
+University of Basel  
+Peter Merian-Weg 6  
+4052 Basel, Switzerland

@@ -30,7 +30,9 @@ During the winter 2022 I was visiting scholar at the Economics department at [Co
 -->
 
 
-<i>Upcoming presentations:</i> Asia meeting of the Econometric Society, Hanoi (July); EcoSta conference, Kyoto (August)
+<!--
+<i>Upcoming presentations:</i> XXX
+-->
 
 
 ### Contact

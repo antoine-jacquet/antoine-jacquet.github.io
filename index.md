@@ -42,5 +42,6 @@ Email: antoine.jacquet \[at\] unibas.ch
 
 Faculty of Business and Economics  
 University of Basel  
+Office 4.32.1  
 Peter Merian-Weg 6  
 4052 Basel, Switzerland
